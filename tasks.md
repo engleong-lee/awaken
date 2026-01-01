@@ -5,25 +5,49 @@
 
 # How to Use
 
+## Folder Structure
+Each episode has its own folder:
+```
+/awaken
+├── tasks.md (this file)
+├── EP01/
+│   ├── script.md (generated narration script)
+│   ├── img_01.png
+│   ├── img_02.png
+│   └── ...
+├── EP02/
+│   ├── script.md
+│   ├── img_01.png
+│   └── ...
+├── EP03/
+│   └── ...
+└── ... (EP04-EP12)
+```
+
 ## Phase 1: Content Generation
 For each episode:
-1. Copy the story structure below
-2. Use LLM to generate full narration script (~2000-2500 Chinese characters)
-3. ✅ Mark episode complete, move to next
+1. Create folder: `EP01`, `EP02`, etc.
+2. Copy the story structure below
+3. Use LLM to generate full narration script (~2000-2500 Chinese characters)
+4. Save script as `script.md` in the episode folder
+5. ✅ Mark episode complete, move to next
 
 Each scene includes an **IMAGE PROMPT** — use these later when generating images manually.
 
 ## Phase 2: Production (Manual)
 After all scripts are generated:
-- Generate images using the prompts
-- Convert scripts to audio (TTS)
-- Edit videos
+- Generate images using the prompts, save to episode folder (e.g., `EP01/img_01.png`)
+- Convert scripts to audio (TTS), save as `EP01/audio.mp3`
+- Edit videos, save as `EP01/video.mp4`
 - Upload
 
-## Image Style Note:
+## Image Style Note
 **All human subjects in images should be Asian.** This is already specified in most prompts, but ensure consistency when generating.
 
-## LLM Prompt Template:
+**Naming convention:** `img_01.png`, `img_02.png`, etc. — matching scene order in script.
+
+## LLM Prompt Template
+Use this prompt to generate full narration script, then save as `EP##/script.md`:
 ```
 请根据以下故事结构，写一个完整的中文旁白脚本，大约2000-2500字。
 
@@ -50,140 +74,176 @@ An Asian man, approximately 50 years old, gentle weathered face, slight enigmati
 
 ---
 
-# EP01: 剧透者
-- ⬜ Script generated
+# EP01: 回放
+- ✅ Script generated
 
 ## Story + Image Prompts
 
 ### Scene 1: Opening
 **STORY:**
-- 悬念开场：如果我告诉你，你的葬礼已经发生了——你会怎么想？
+- 悬念开场：你有没有过这种感觉——一整天过去了，但你完全不记得发生了什么？
 - 引入主角：小美，28岁，普通上班族
-- 她和妈妈关系很好，每周回家吃饭
+- 她的生活是复制粘贴的：起床、通勤、上班、回家、刷手机、睡觉
+- 每天都一样，一样到她已经不需要"思考"了
+- 身体自动完成一切，意识直接关机
 
 **IMAGE PROMPT:**
 ```
-A young Asian woman sitting on a crowded subway train, looking anxious, morning light through windows, cinematic, 16:9
+A young Asian woman on crowded subway, blank expression, earphones in, everyone around her also zombie-like, morning commute, cinematic, 16:9
 ```
 
 ---
 
-### Scene 2: The Discovery
+### Scene 2: The Recording
 **STORY:**
-- 她发现自己能"看到"别人的死亡画面
-- 第一次发现：地铁上对面的大叔——心脏病，浴室，明年冬天
-- 她以为自己疯了
+- 某天，公司要拍一个"员工日常"的短片
+- 她被选中，要用手机录下自己一整天
+- 她觉得很无聊：我的一天有什么好拍的？
+- 但她还是从早上出门开始录
 
 **IMAGE PROMPT:**
 ```
-Surreal double exposure: a middle-aged Asian man's face overlaid with a ghostly bathroom scene, heart monitor flatline, cold blue tones, haunting, cinematic, 16:9
+Young Asian woman holding phone to record herself, apartment doorway, morning light, reluctant expression, cinematic, 16:9
 ```
 
 ---
 
-### Scene 3: The Mother
+### Scene 3: The Playback
 **STORY:**
-- 然后她看到了妈妈的死亡
-- 脑溢血，厨房地板，三个月后
-- 她崩溃了
+- 晚上回到家，她把视频导出来看
+- 她吓到了
+- 屏幕里的她，表情像死人一样
+- 眼神空洞、嘴角下垂、动作机械
+- 走路的时候不看路，吃饭的时候不看碗
+- 全程都像一个没有灵魂的壳
+- 她盯着屏幕里的自己，问：这是我吗？
 
 **IMAGE PROMPT:**
 ```
-A young Asian woman hugging an older woman (her mother) tightly, tears in eyes, warm home kitchen setting, emotional, cinematic, 16:9
+Young Asian woman staring at phone screen in horror, screen shows her own blank zombie-like face, dark room lit by phone, unsettling, cinematic, 16:9
 ```
 
 ---
 
-### Scene 4: Desperate Attempts
+### Scene 4: The Background
 **STORY:**
-- 她拼命想改变：带妈妈体检、让她吃药、搬去和妈妈住
-- 每次她改变一个细节，死亡方式就变一点，但日期不变
-- 体检正常。药也吃了。但画面里妈妈还是倒在厨房
-- 她越努力，越绝望
+- 她又看了一遍，这次注意背景
+- 她发现了很多她当时完全没注意到的东西：
+- 早餐店老板对她笑了，她没看到
+- 地铁上有个小女孩一直在看她，她没看到
+- 公司门口的保安跟她打招呼，她没回应
+- 回家路上的晚霞很美，她在低头看手机
+- 她突然意识到：世界一直在发生，她一直不在场
 
 **IMAGE PROMPT:**
 ```
-A young Asian woman looking at medical reports with desperate expression, hospital waiting room, harsh lighting, anxiety, cinematic, 16:9
+Split screen: foreground shows woman looking at phone, background shows beautiful sunset she's missing, contrast between presence and absence, cinematic, 16:9
 ```
 
 ---
 
-### Scene 5: Isolation and Breakdown
+### Scene 5: The Person
 **STORY:**
-- 她开始害怕看任何人——每张脸都是一个倒计时
-- 她戴墨镜，躲在家里，不敢见妈妈
-- 因为每次见面，她都看到那个画面
+- 然后她注意到一件奇怪的事
+- 有一个人，在背景里出现了好几次
+- 早餐店门口、地铁站、公司楼下、回家的路上
+- 是同一个人。一个中年男人，表情很平静，好像在看着她
+- 她吓了一跳：是跟踪狂？
+- 但再仔细看，那个人没有恶意
+- 他只是...在那里。好像一直都在那里
+- 她从来没有注意到
 
 **IMAGE PROMPT:**
 ```
-A young Asian woman alone in a dark apartment, wearing sunglasses indoors, sitting in corner hugging knees, single beam of light, lonely, cinematic, 16:9
+Phone screen showing street scene, circled in background is the same middle-aged Asian man appearing multiple times, mysterious but not threatening, cinematic, 16:9
 ```
 
 ---
 
-### Scene 6: Seeing Her Own Death
+### Scene 6: The Question
 **STORY:**
-- 某天，她在镜子里看到了自己的死亡
-- 她老了，躺在床上，阳光照进来
-- 有人握着她的手。她在笑
-- 很平静，很美
+- 她放下手机，坐在黑暗里
+- 她问自己：
+- 如果一个人可以每天出现在我身边，我都看不见
+- 那还有多少东西，是我错过的？
+- 她的生活不是无聊
+- 是她自己"不在"
 
 **IMAGE PROMPT:**
 ```
-An elderly Asian woman lying peacefully in bed, warm sunlight through window, someone holding her hand, serene smile, peaceful, cinematic, 16:9
+Young Asian woman sitting alone in dark room, deep in thought, single light source, existential moment, cinematic, 16:9
 ```
 
 ---
 
-### Scene 7: The Photo (TWIST Setup)
+### Scene 7: The Awakening (TWIST)
 **STORY:**
-- 她注意到床头柜上有一张照片
-- 照片里是现在的她——年轻的她，正在看着镜子
-- 旁边还有一张照片：妈妈，笑着，已经很老了
+- 第二天，她决定做一个实验
+- 同样的路线，同样的时间，但这次她"醒着"
+- 她摘掉耳机，抬起头，用眼睛看
+- 她发现：
+- 早餐店老板的笑容很温暖
+- 地铁上每个人都有自己的故事
+- 保安是个很和善的大叔
+- 晚霞每天都不一样
 - [停顿]
-- 妈妈活到了老？
+- 世界没有变。变的是她终于"在"了
 
 **IMAGE PROMPT:**
 ```
-Close-up of bedside table with two framed photos - young woman and elderly mother, soft focus background of peaceful bedroom, warm nostalgic lighting, cinematic, 16:9
+Same commute scene but now the woman is looking up, seeing details around her, warm colors, world coming alive, awakening, cinematic, 16:9
 ```
 
 ---
 
-### Scene 8: The Realization (TWIST)
+### Scene 8: The Person Again
 **STORY:**
-- 她突然明白：
-- 她看到的不是"注定"，是"如果什么都不变"的结果
-- 她的介入已经改变了时间线
-- 那个厨房的画面，是旧的未来，不是新的
-- 而80岁的自己，正从新的未来看着她
+- 她又看到了那个人
+- 这次，她直接看着他
+- 他对她笑了一下，点了点头
+- 然后转身走进人群，消失了
+- 她追上去，但找不到了
+- 她不知道他是谁
+- 但她知道：他一直都在。是她终于看见了
 - [停顿]
-- 过去和未来不是直线，是无数分叉
-- 她每一个选择，都在创造新的可能
+- 结局可能早就写好了，但她此刻的体验是真实的
+- 而她差点错过了全部
 
 **IMAGE PROMPT:**
 ```
-Surreal image: young Asian woman and elderly version looking at each other across time, branching tree-like paths of light between them, ethereal, cinematic, 16:9
+Young Asian woman in crowd, looking toward a middle-aged man who smiles and nods at her, moment of recognition, then he disappears into crowd, mysterious, cinematic, 16:9
 ```
 
 ---
 
 ### Scene 9: Resolution
 **STORY:**
-- 她走出家门，摘掉墨镜
-- 她去见妈妈，不再害怕
-- 她不知道未来会怎样
-- 但她知道：每一个当下的选择，都在改写剧本
-- 她决定好好陪妈妈，不是因为恐惧，而是因为爱
+- 从那天起，她还是走同样的路、做同样的事
+- 但她不一样了
+- 她开始看见：便利店店员的黑眼圈、邻居阿姨新染的头发、天空每天不同的颜色
+- 她不知道那个人是谁，会不会再出现
+- 但她知道：如果他再出现，她不会再错过了
+- 因为她终于醒了
 
 **IMAGE PROMPT:**
 ```
-A young Asian woman walking on busy city street, removing sunglasses, morning light, hopeful expression, cinematic, 16:9
+Young Asian woman walking down street with gentle smile, noticing small details around her, warm morning light, present and alive, cinematic, 16:9
 ```
 
-**"那个人" 出现:** 背景里公园长椅上看报纸的老人
+**"那个人" 出现:** 本集核心元素——多次出现在背景，最后正面相遇后消失
 
 ---
+
+### Scene 10: 灵魂拷问
+**TEXT ON SCREEN:**
+> 你今天"在"吗？
+> 还是只是身体在，人不在？
+> 此刻，你看见了什么？
+
+**IMAGE PROMPT:**
+```
+Black background, elegant white Chinese text centered, minimalist typography, 16:9
+```
 
 ### Scene 10: 灵魂拷问
 **TEXT ON SCREEN:**
@@ -198,7 +258,7 @@ Black background, elegant white Chinese text centered, minimalist typography, 16
 ---
 
 # EP02: 倒带
-- ⬜ Script generated
+- ✅ Script generated
 
 ## Story + Image Prompts
 
@@ -246,12 +306,19 @@ Old CRT TV showing a young Asian woman cooking happily, warm golden tones on scr
 **STORY:**
 - 他发现可以调频道，每个频道是不同的时间点
 - 第一次约会、结婚那天、吵架那晚、她出门前最后一个笑容
-- 他没日没夜地看，不上班、不出门、不吃饭
-- 他终于可以"陪着她"了
+- 他还是去上班。还是跟同事吃饭
+- 但他开始找借口早回家
+- "今天有点累。" "胃不舒服。"
+- 回到家，他打开录像机，调到她做饭的那个频道
+- 把外卖放在旁边，看着屏幕里的她切菜，他吃饭
+- 好像在一起吃
+- 同事问他："最近怎么样？要不要周末出来？"
+- 他说："没事，我有事。"
+- 他没有"崩溃"。他只是慢慢地、安静地，把自己从世界里撤出去了
 
 **IMAGE PROMPT:**
 ```
-Disheveled Asian man sitting close to TV in darkness, face lit by screen, empty food containers around, obsessive atmosphere, cinematic, 16:9
+Asian man eating takeout alone while watching TV showing woman cooking, screen glow in dim room, quiet isolation, cinematic, 16:9
 ```
 
 ---
@@ -324,10 +391,11 @@ Asian man's hand hovering over power button, TV screen showing elderly self nodd
 - 他关掉了录像机
 - 站起来。走出家门
 - 阳光很刺眼。他已经很久没出门了
-- 他不知道未来会遇到什么
-- 但他知道：他不想变成屏幕里那个人
+- 他不知道关掉录像机之后会发生什么
+- 也许他还是会变成那个孤独的老人。也许不会
+- 但他知道：如果继续看下去，他连"也许"都没有了
 - 她已经走了。但他还活着
-- 这一次，他选择不同的结局
+- 他不知道剧本写了什么，所以他要活得像它还没写完
 
 **IMAGE PROMPT:**
 ```
@@ -352,7 +420,7 @@ Black background, elegant white Chinese text centered, minimalist typography, 16
 ---
 
 # EP03: NPC
-- ⬜ Script generated
+- ✅ Script generated
 
 ## Story + Image Prompts
 
@@ -494,7 +562,7 @@ Black background, elegant white Chinese text centered, minimalist typography, 16
 ---
 
 # EP04: 监狱建筑师
-- ⬜ Script generated
+- ✅ Script generated
 
 ## Story + Image Prompts
 
@@ -540,29 +608,38 @@ Small text on white wall "这个房间是你自己设计的", mysterious, minima
 **STORY:**
 - 他停下来，盯着第一面墙
 - 墙上开始浮现画面：
-- 他17岁，在全班面前演讲，结巴了，所有人笑
-- 那天之后，他再也不敢公开说话
-- 他认出这面墙：这是"我不够好"
+- 他12岁，画了一张画，很得意，拿给爸爸看
+- 爸爸瞄了一眼说："有这时间不如去做数学题。"
+- 然后继续看报纸
+- 他站在那里，不知道该把画放哪
+- 最后他把画塞进书包底层，再也没拿出来过
+- 他认出这面墙：这是"我喜欢的东西不重要"
 
 **IMAGE PROMPT:**
 ```
-White wall showing ghostly image of teenage boy being laughed at by classmates, humiliation memory, ethereal, cinematic, 16:9
+White wall showing ghostly image of young boy holding a drawing, father reading newspaper ignoring him, quiet rejection, ethereal, cinematic, 16:9
 ```
 
 ---
 
 ### Scene 5: The Other Walls - More Memories
 **STORY:**
-- 第二面墙：25岁，向女孩表白，被拒绝，当众难堪
-- 这是"我不值得被爱"
-- 第三面墙：32岁，父亲临终前说"你让我失望"
-- 这是"我永远不够好"
+- 第二面墙：25岁，第一份工作，开会时提了个想法
+- 老板说："这个我们之前试过了，不行。"
+- 其实老板只是随口一说
+- 但他之后再也没在会上主动发过言
+- 这是"我的想法是错的"
+- 第三面墙：35岁，妈妈生病住院，他请假回家照顾
+- 有一天妈妈说："你回去吧，别耽误工作。"
+- 他回去了。三天后妈妈走了，他没见到最后一面
+- 他知道妈妈是心疼他。但他一直在想："如果我没走呢？"
+- 这是"我总是做错选择"
 - 第四面墙：一面镜子，里面是一个小男孩，蜷缩着，害怕
 - 那是童年的他
 
 **IMAGE PROMPT:**
 ```
-Four walls showing different painful memories - rejection, dying father, scared child in mirror - each wall a prison, emotional, cinematic, 16:9
+Four walls showing different painful memories - ignored in meeting, mother in hospital bed waving goodbye, scared child in mirror - each wall a prison, emotional, cinematic, 16:9
 ```
 
 ---
@@ -646,7 +723,7 @@ Black background, elegant white Chinese text centered, minimalist typography, 16
 ---
 
 # EP05: 河流
-- ⬜ Script generated
+- ✅ Script generated
 
 ## Story + Image Prompts
 
@@ -667,8 +744,13 @@ Middle-aged Asian businessman alone in large office at night, looking at phone s
 ### Scene 2: The Daughter
 **STORY:**
 - 女儿小雨，22岁，三年没跟他说话了
-- 起因是她大学选了艺术系，他大吵一架，说她没出息
-- 从那以后，电话不接，微信不回，过年不回家
+- 起因是她大学选了艺术系
+- 他没有大吵。他只是叹了口气，说："随你吧。"
+- 但从那之后，每次打电话，他都会问：
+- "找到工作了吗？" "能养活自己吗？" "有没有存钱？"
+- 女儿开始不接电话了
+- 他不明白：我只是关心她啊
+- 电话不接，微信不回，过年不回家
 - 他试过一切：道歉、转钱、托人带话
 - 她就是不理他
 
@@ -681,49 +763,37 @@ Split image: father looking at phone on one side, daughter ignoring phone on oth
 
 ### Scene 3: The Last Attempt
 **STORY:**
-- 他决定直接飞去她的城市
-- 在她公司楼下等了三天
-- 终于看到她出来
-- 他冲上去，她一看到他，转身就走
-- 他追上去，抓住她手臂
-- 她甩开，喊了一句：
-- "你越这样，我越不想见你"
+- 他去女儿的城市出差，想着顺便见一面
+- 提前一周发微信问她有没有时间
+- 女儿说："那几天挺忙的。"
+- 他说："就吃顿饭。"
+- 女儿说："我看看吧。"
+- 出差结束，她没来
+- 他一个人坐在酒店房间里，看着窗外的城市灯光
+- 订了最早的航班回家
 
 **IMAGE PROMPT:**
 ```
-Street scene: father grabbing daughter's arm, daughter pulling away angrily, confrontation, urban setting, emotional, cinematic, 16:9
+Middle-aged Asian man alone in hotel room at night, looking out window at city lights, empty chair across from him, quiet devastation, cinematic, 16:9
 ```
 
 ---
 
-### Scene 4: The Accident
+### Scene 4: The River
 **STORY:**
-- 他站在路边，看着她走远
-- 他不知道该怎么办了
-- 那天晚上开车回酒店，太累了
-- 把车开进了河里
-
-**IMAGE PROMPT:**
-```
-Car partially submerged in shallow river at night, headlights glowing underwater, moonlight, surreal, cinematic, 16:9
-```
-
----
-
-### Scene 5: By the River
-**STORY:**
-- 河水很浅，他爬出来了
-- 湿透了，坐在河边
+- 回家后，他开车去郊区透气
+- 停在一条河边，只是想抽根烟
+- 他看着河水，开始想：我到底做错了什么？
 - 他已经没力气了。人生第一次，完全不知道该怎么办
 
 **IMAGE PROMPT:**
 ```
-Wet disheveled Asian man sitting on riverbank at dawn, defeated, mist rising, peaceful yet melancholic, cinematic, 16:9
+Middle-aged Asian man sitting by car near riverbank, smoking, dawn light, exhausted and lost, contemplative, cinematic, 16:9
 ```
 
 ---
 
-### Scene 6: The Leaf
+### Scene 5: The Leaf
 **STORY:**
 - 一片叶子从上游漂下来
 - 它碰到石头，就绕开
@@ -738,7 +808,7 @@ Single autumn leaf floating on river, navigating around rocks naturally, beautif
 
 ---
 
-### Scene 7: The Reflection (TWIST)
+### Scene 6: The Reflection (TWIST)
 **STORY:**
 - 他看着水里的倒影——天空、云
 - 他一直在追女儿
@@ -755,7 +825,7 @@ Perfectly still water reflecting sky, hand reaching toward surface causing rippl
 
 ---
 
-### Scene 8: The Realization
+### Scene 7: The Realization
 **STORY:**
 - 他突然明白：
 - 他追的不是女儿
@@ -773,7 +843,7 @@ Asian man sitting by river, expression changing from desperate to peaceful under
 
 ---
 
-### Scene 9: Resolution
+### Scene 8: Resolution
 **STORY:**
 - 他回到家，没有再打电话
 - 没有再发微信
@@ -796,7 +866,7 @@ Father and adult daughter sitting side by side on couch watching TV, not talking
 
 ---
 
-### Scene 10: 灵魂拷问
+### Scene 9: 灵魂拷问
 **TEXT ON SCREEN:**
 > 你在抓住什么？
 > 如果松手，会怎样？
@@ -809,7 +879,7 @@ Black background, elegant white Chinese text centered, minimalist typography, 16
 ---
 
 # EP06: 两条命
-- ⬜ Script generated
+- ✅ Script generated
 
 ## Story + Image Prompts
 
@@ -877,18 +947,22 @@ Asian woman artist with a man, but her figure is becoming transparent, he looks 
 - 阿芳：稳定，但孤独，每天看着人死去
 - 莉莉：有爱，有色彩，但越来越像个梦
 - 她不知道怎么选
+- 某天在医院值班，她路过一个病房，听到里面有人在唱歌
+- 那首歌...好熟悉
+- 她推开门——
 
 **IMAGE PROMPT:**
 ```
-Asian woman standing at crossroads, one path leads to hospital (grey), one to ocean (colorful), impossible choice, surreal, cinematic, 16:9
+Asian nurse standing at hospital room doorway, hand on door, hearing something familiar, curiosity and fear, cinematic, 16:9
 ```
 
 ---
 
 ### Scene 6: The Mother
 **STORY:**
-- 然后她发现一件事
-- 两个世界里，都有她妈妈
+- 病床上躺着的，是她妈妈
+- 她愣住了
+- 然后她想起来：两个世界里，都有她妈妈
 - 阿芳的世界：妈妈是医院的临终病人
 - 莉莉的世界：妈妈住在海边，健康，常来画室看她画画
 - 同一个人，两种命运
@@ -969,7 +1043,7 @@ Black background, elegant white Chinese text centered, minimalist typography, 16
 ---
 
 # EP07: 房客
-- ⬜ Script generated
+- ✅ Script generated
 
 ## Story + Image Prompts
 
@@ -991,10 +1065,16 @@ Young Asian man at computer desk, anxious, dark room lit by monitor, ghostly sha
 **STORY:**
 - 爸爸五年前去世了
 - 但那个声音没有消失，反而更响了
-- "你太蠢了"
-- "你永远不如别人"
-- "我对你很失望"
+- 爸爸不是故意要骂他。爸爸只是不会别的说法
+- 小时候他考了98分，很开心地给爸爸看
+- 爸爸说："那2分怎么丢的？"
+- 他知道爸爸的意思是"要更好"
+- 但听进去的是"你不够好"
+- "你太蠢了" "你永远不如别人"
 - 这些话，爸爸活着的时候说过无数遍
+- 爸爸小时候也是这样被对待的
+- 爷爷对爸爸说的话，爸爸原封不动说给了他
+- 三代人，用同一套剧本
 - 现在爸爸不在了，声音还在继续说
 
 **IMAGE PROMPT:**
@@ -1026,14 +1106,18 @@ Asian man entering apartment finding his deceased father (younger version) on co
 - 阿明说：我没请你来
 - 爸爸说：你没请我，但你一直在听我的话
 - 阿明说：那是因为...
-- 爸爸打断他：因为你以为我是对的。你以为我的声音就是真相。
-- 但我只是个房客。一个你忘了可以赶走的房客。
+- 爸爸打断他：因为你以为我是对的。你以为我的声音就是真相
+- 但我只是个房客。一个你忘了可以赶走的房客
 - 阿明愣住：我可以赶走你？
 - 爸爸说：我是你留下的。你想留多久都可以。但别忘了，租约是你签的
+- 阿明问：你知道你伤害了我吗？
+- 爸爸沉默了一会儿：我以为那是爱。我不知道怎么说别的
+- 阿明说：那不是我想要的
+- 爸爸说：……我知道。但我只会这样
 
 **IMAGE PROMPT:**
 ```
-Confrontation in living room: son facing ghostly father across coffee table, father looks smug, dramatic lamp lighting, tense, cinematic, 16:9
+Confrontation in living room: son facing ghostly father across coffee table, father looks tired not smug, dramatic lamp lighting, complex emotions, cinematic, 16:9
 ```
 
 ---
@@ -1123,7 +1207,7 @@ Black background, elegant white Chinese text centered, minimalist typography, 16
 ---
 
 # EP08: 邪教逃亡
-- ⬜ Script generated
+- ✅ Script generated
 
 ## Story + Image Prompts
 
@@ -1287,20 +1371,26 @@ Black background, elegant white Chinese text centered, minimalist typography, 16
 ---
 
 # EP09: 捉迷藏
-- ⬜ Script generated
+- ✅ Script generated
 
 ## Story + Image Prompts
 
 ### Scene 1: Opening
 **STORY:**
 - 悬念：如果你是神假扮的——只是暂时忘了——你会怎么过今天？
-- 引入：老王，55岁，快递员
-- 他觉得自己这辈子很失败
-- 没钱，没地位，老婆跑了，儿子不跟他说话
+- 引入：老王，55岁，送了二十年快递
+- 不算成功，但也不算失败
+- 有套小房子，够住。离过婚，一个人过习惯了
+- 儿子在另一个城市，一年见一两次
+- 不是不认他，就是各忙各的
+- 每次见面，儿子会问他身体怎么样，然后没话了
+- 他想多说点什么，又不知道说什么
+- 他不觉得自己惨
+- 他只是有时候会想：这辈子，就这样了吗？
 
 **IMAGE PROMPT:**
 ```
-Tired middle-aged Asian delivery man on electric scooter in traffic, worn expression, urban China, melancholic golden hour, cinematic, 16:9
+Tired middle-aged Asian delivery man on electric scooter in traffic, ordinary expression, urban China, golden hour, cinematic, 16:9
 ```
 
 ---
@@ -1458,7 +1548,7 @@ Black background, elegant white Chinese text centered, minimalist typography, 16
 ---
 
 # EP10: 隧道
-- ⬜ Script generated
+- ✅ Script generated
 
 ## Story + Image Prompts
 
@@ -1523,14 +1613,17 @@ Holographic display of entire life simultaneously - childhood, love, wedding - a
 - 那是十年前
 - 他当时是公司主管，手下有个年轻员工，叫小林
 - 小林工作出了错，损失很大
-- 他当着所有人的面骂他，骂得很难听
-- "你是废物"
-- "你不配待在这里"
+- 他当时也不是故意要骂那么狠
+- 只是那天项目出了问题，老板刚骂完他，他满肚子火
+- 小林进来汇报，刚好撞在枪口上
+- 他说："这点事都做不好，你还能做什么？"
+- 说完他就后悔了。但他没道歉
+- 他想：年轻人，说两句没什么
 - 小林低着头，一句话不说，第二天就辞职了
 
 **IMAGE PROMPT:**
 ```
-Office scene: Asian manager publicly berating young employee in front of colleagues, employee's head down in shame, harsh fluorescent lighting, cruel moment, cinematic, 16:9
+Office scene: Asian manager speaking harshly to young employee, manager looks stressed not angry, employee's head down, harsh fluorescent lighting, regrettable moment, cinematic, 16:9
 ```
 
 ---
@@ -1539,17 +1632,21 @@ Office scene: Asian manager publicly berating young employee in front of colleag
 **STORY:**
 - 但这次，他不是从自己的角度看
 - 他是从小林的角度体验这个画面
-- 他感受到了小林感受到的一切：
-- 羞耻、恐惧、自我怀疑
-- 他感受到小林那天晚上一个人哭了三个小时
-- 感受到小林之后三年都不敢在会议上说话
+- 他感受到小林感受到的一切：
+- 不是愤怒，是迷茫
+- "我真的那么差吗？"
+- 脸上发烫的羞耻、胃里翻涌的恶心
+- 小林回到工位上，假装在看电脑，其实什么都没做
+- 旁边同事没有人来安慰他。因为大家都假装没看见
+- 那天晚上小林没睡好
+- 第二天他递了辞职信。理由写的是"个人原因"
 - [停顿]
 - 他说过的每一句话，都有重量
 - 他从来不知道
 
 **IMAGE PROMPT:**
 ```
-Same office scene but from victim's POV, looking up at angry manager, feeling small and crushed, world closing in, emotional devastation, cinematic, 16:9
+Same office scene but from victim's POV, looking down at desk pretending to work, colleagues avoiding eye contact, feeling small and isolated, emotional devastation, cinematic, 16:9
 ```
 
 ---
@@ -1559,9 +1656,11 @@ Same office scene but from victim's POV, looking up at angry manager, feeling sm
 - 他痛苦极了，想道歉
 - 然后光带他看了另一个画面：
 - 五年后的小林
-- 小林在自己的公司当老板
-- 他正在安慰一个犯错的员工，说：
-- "没关系，谁都会犯错。重要的是你学到了什么"
+- 小林现在自己带团队了
+- 有一次下属犯了错，他很想发火
+- 但他忍住了，说："没事，我们看看怎么补救。"
+- 他不知道自己为什么要这样做
+- 他只是不想让别人体验他体验过的那种感觉
 - [停顿]
 - 小林被那次经历伤害了
 - 但他选择不把伤害传下去
@@ -1569,7 +1668,7 @@ Same office scene but from victim's POV, looking up at angry manager, feeling sm
 
 **IMAGE PROMPT:**
 ```
-Different office scene: the former young employee (now older) kindly encouraging his own employee, warm lighting, growth and healing, cinematic, 16:9
+Different office scene: the former young employee (now older) calmly helping his own employee, warm lighting, growth and healing, cinematic, 16:9
 ```
 
 ---
@@ -1626,7 +1725,7 @@ Black background, elegant white Chinese text centered, minimalist typography, 16
 ---
 
 # EP11: 镜子
-- ⬜ Script generated
+- ✅ Script generated
 
 ## Story + Image Prompts
 
@@ -1657,33 +1756,38 @@ Asian woman looking at ID card and photos she doesn't recognize, disconnection f
 
 ---
 
-### Scene 3: The Visitor
+### Scene 3: The Discovery
 **STORY:**
-- 某天，一个男人来看她
-- 他说他是她前男友
-- 他说他们分手是因为她出轨
-- 他说她是一个"很糟糕的人"
-- 骗过他，也骗过别人
-- 他是来"让她知道真相"的
+- 她出院后住进自己的公寓。钥匙在包里，说明这真的是她的家
+- 但她像个客人一样，小心翼翼地看每一样东西
+- 冰箱上贴着便利贴："周五 Amy 生日"。Amy是谁？
+- 她翻手机，有个群叫"闺蜜团"
+- 最后一条消息是三个月前，有人说："小敏你太过分了。"
+- 然后她被移出了群聊
 
 **IMAGE PROMPT:**
 ```
-Angry Asian man confronting confused woman in hospital, accusation and shock, harsh lighting, confrontational, cinematic, 16:9
+Asian woman in her own apartment looking at phone showing she was removed from group chat, confused and disturbed, discovering past self, cinematic, 16:9
 ```
 
 ---
 
 ### Scene 4: The Evidence
 **STORY:**
-- 他给她看聊天记录、照片
-- 全是她"以前"做过的事
-- 她看着那些记录
-- 感觉像在看一个陌生人的故事
-- 那个人...真的是她吗？
+- 她翻微信记录，发现自己和很多人的对话都停在很久以前
+- 停止的方式不是吵架，而是……对方不再回复了
+- 她找到一本日记
+- 里面写的不是"我做了什么坏事"，而是各种抱怨：
+- "Amy太敏感了，开个玩笑都生气。"
+- "他们不理解我，我又没做错什么。"
+- "为什么受伤的总是我？"
+- 她看着日记里的"自己"，觉得很陌生
+- 那个人好像永远是受害者，永远觉得别人对不起她
+- 但从聊天记录来看……好像不是这样
 
 **IMAGE PROMPT:**
 ```
-Asian woman looking at phone screen showing damning chat messages, confused and disturbed, evidence of past self, cinematic, 16:9
+Asian woman reading old diary, expressions of confusion and growing realization, discovering uncomfortable truth about past self, cinematic, 16:9
 ```
 
 ---
@@ -1693,19 +1797,23 @@ Asian woman looking at phone screen showing damning chat messages, confused and 
 - 医生说：记忆可能会慢慢恢复
 - 她不知道自己想不想恢复
 - 如果"以前的她"真的是那样的人...
+- 一个永远觉得自己没错、永远是受害者的人
 - 她要不要变回去？
-- 还是她可以...选择不要那些记忆？
+- 还是她可以...选择不要那些思维方式？
+- 那天晚上洗完澡，她用毛巾擦镜子上的雾气
+- 镜子慢慢变清晰——她看到了自己的脸
+- 这是失忆后第一次认真看自己
 
 **IMAGE PROMPT:**
 ```
-Asian woman sitting alone in hospital room, deep in thought, facing impossible choice, dramatic shadows, cinematic, 16:9
+Asian woman wiping foggy bathroom mirror, her face slowly appearing, first time seeing herself, vulnerable moment, cinematic, 16:9
 ```
 
 ---
 
 ### Scene 6: The Mirror
 **STORY:**
-- 某天晚上，她一个人盯着镜子
+- 她盯着镜子里的人
 - 问镜子里的人：你到底是谁？
 - 镜子里的人没回答
 - 她举手，镜子里举手
@@ -1729,9 +1837,8 @@ Asian woman staring at reflection in mirror at night, searching for identity, so
 - 镜子里的不是"她"
 - 镜子只能照到"苏小敏"这个角色
 - 而她——那个正在看镜子的——不在镜子里
-- 以前的苏小敏是骗子、是坏人——那只是一个剧本
-- 她不是那个剧本，她是演剧本的人
-- 她可以选择一个新剧本
+- 以前的苏小敏伤害过人——那只是一个剧本
+- 她不是那个剧本，她是正在体验剧本的人
 
 **IMAGE PROMPT:**
 ```
@@ -1743,12 +1850,11 @@ Multiple exposure: Asian woman moving but reflection lagging, showing separation
 ### Scene 8: The Freedom
 **STORY:**
 - 她做了一个决定
-- 她不会去"找回"记忆
-- 她会创造新的记忆
+- 她不知道能不能真的"变成"一个不同的人
+- 但她要按照自己想成为的样子去做
 - 以前的苏小敏伤害过人
 - 但那个苏小敏已经"死"了
-- 现在的她，可以做出不同的选择
-- 她不需要被过去定义
+- 现在的她，可以选择方向
 
 **IMAGE PROMPT:**
 ```
@@ -1760,17 +1866,19 @@ Asian woman removing mirror from wall, empty wall behind, she's still there, cho
 ### Scene 9: Resolution
 **STORY:**
 - 记忆后来零零散散回来了一些
-- 她确实做过不好的事
-- 但她没有让那些记忆变成她的身份
+- 她确实做过伤害别人的事
+- 但更多的是：她以前总觉得自己是对的
+- 她没有让那些记忆变成她的身份
 - 她一个一个找到她伤害过的人
 - 道歉，不是因为"那是我"
 - 而是因为"我选择为那些事负责"
-- 旧的苏小敏死了
-- 新的她，每天都在选择成为谁
+- 她给Amy发了条消息："我不记得发生了什么，但我知道我伤害了你。对不起。"
+- Amy没回复。但她不再等回复了
+- 也许她改变的不是结局，而是走向结局的方式
 
 **IMAGE PROMPT:**
 ```
-Asian woman meeting someone at coffee shop, humble apology, reconciliation, growth, warm lighting, cinematic, 16:9
+Asian woman sending message on phone with peaceful expression, letting go, growth, warm lighting, cinematic, 16:9
 ```
 
 **"那个人" 出现:** 镜子背景里一闪而过的身影
@@ -1792,7 +1900,7 @@ Black background, elegant white Chinese text centered, minimalist typography, 16
 ---
 
 # EP12: 游戏厅 (FINALE)
-- ⬜ Script generated
+- ✅ Script generated
 
 ## Story + Image Prompts
 
@@ -1986,47 +2094,61 @@ Black screen, white text: "感谢入场。请继续游戏。" then "——那个
 
 After all 12 scripts are generated:
 
-### Audio (TTS)
-- ⬜ EP01 → audio
-- ⬜ EP02 → audio
-- ⬜ EP03 → audio
-- ⬜ EP04 → audio
-- ⬜ EP05 → audio
-- ⬜ EP06 → audio
-- ⬜ EP07 → audio
-- ⬜ EP08 → audio
-- ⬜ EP09 → audio
-- ⬜ EP10 → audio
-- ⬜ EP11 → audio
-- ⬜ EP12 → audio
+### Scripts (save as `EP##/script.md`)
+- ⬜ EP01/script.md
+- ⬜ EP02/script.md
+- ⬜ EP03/script.md
+- ⬜ EP04/script.md
+- ⬜ EP05/script.md
+- ⬜ EP06/script.md
+- ⬜ EP07/script.md
+- ⬜ EP08/script.md
+- ⬜ EP09/script.md
+- ⬜ EP10/script.md
+- ⬜ EP11/script.md
+- ⬜ EP12/script.md
 
-### Image Generation
-- ⬜ EP01 images
-- ⬜ EP02 images
-- ⬜ EP03 images
-- ⬜ EP04 images
-- ⬜ EP05 images
-- ⬜ EP06 images
-- ⬜ EP07 images
-- ⬜ EP08 images
-- ⬜ EP09 images
-- ⬜ EP10 images
-- ⬜ EP11 images
-- ⬜ EP12 images
+### Audio (save as `EP##/audio.mp3`)
+- ⬜ EP01/audio.mp3
+- ⬜ EP02/audio.mp3
+- ⬜ EP03/audio.mp3
+- ⬜ EP04/audio.mp3
+- ⬜ EP05/audio.mp3
+- ⬜ EP06/audio.mp3
+- ⬜ EP07/audio.mp3
+- ⬜ EP08/audio.mp3
+- ⬜ EP09/audio.mp3
+- ⬜ EP10/audio.mp3
+- ⬜ EP11/audio.mp3
+- ⬜ EP12/audio.mp3
 
-### Video Editing
-- ⬜ EP01 video
-- ⬜ EP02 video
-- ⬜ EP03 video
-- ⬜ EP04 video
-- ⬜ EP05 video
-- ⬜ EP06 video
-- ⬜ EP07 video
-- ⬜ EP08 video
-- ⬜ EP09 video
-- ⬜ EP10 video
-- ⬜ EP11 video
-- ⬜ EP12 video
+### Images (save as `EP##/img_01.png`, `img_02.png`, etc.)
+- ⬜ EP01/images
+- ⬜ EP02/images
+- ⬜ EP03/images
+- ⬜ EP04/images
+- ⬜ EP05/images
+- ⬜ EP06/images
+- ⬜ EP07/images
+- ⬜ EP08/images
+- ⬜ EP09/images
+- ⬜ EP10/images
+- ⬜ EP11/images
+- ⬜ EP12/images
+
+### Video (save as `EP##/video.mp4`)
+- ⬜ EP01/video.mp4
+- ⬜ EP02/video.mp4
+- ⬜ EP03/video.mp4
+- ⬜ EP04/video.mp4
+- ⬜ EP05/video.mp4
+- ⬜ EP06/video.mp4
+- ⬜ EP07/video.mp4
+- ⬜ EP08/video.mp4
+- ⬜ EP09/video.mp4
+- ⬜ EP10/video.mp4
+- ⬜ EP11/video.mp4
+- ⬜ EP12/video.mp4
 
 ### Upload
 - ⬜ All episodes uploaded
@@ -2039,7 +2161,7 @@ After all 12 scripts are generated:
 
 | EP | Question |
 |---|---|
-| 1 | 如果80岁的你正在看着你——你在做什么？ |
+| 1 | 你今天"在"吗？还是只是身体在，人不在？ |
 | 2 | 未来的你能寄一样东西——是警告还是祝福？ |
 | 3 | 如果你是NPC——你已经知道了，只是假装忘记？ |
 | 4 | 那面墙，保护的是谁？ |
@@ -2056,19 +2178,19 @@ After all 12 scripts are generated:
 
 # Episode Summary: What Changed
 
-| EP | Original | Improved |
+| EP | Original | Current Version |
 |---|---|---|
-| 1 | Generic death visions | Added mother storyline - emotional stakes |
-| 2 | "Time is simultaneous" (same as EP01) | Future self sends VCR as warning - about choice |
+| 1 | 预知死亡 | 录像回放 — 发现自己像僵尸，开始"在场" |
+| 2 | "没日没夜不吃不喝" obsession | Quiet withdrawal - early回家, eating takeout facing screen |
 | 3 | AI questions him | AI predicts his behavior + he wrote his own code |
-| 4 | Abstract fears as walls | Specific traumatic memories + protecting inner child |
-| 5 | Business failure by river | Father-daughter estrangement - letting go of a person |
+| 4 | 演讲出丑、告白被拒、临终遗言 | 被忽视的画、没被采纳的想法、没见到的最后一面 |
+| 5 | 追三天、抓手臂、撞河 | 出差想见面她没来、河边抽烟沉思 |
 | 6 | Two dream worlds | Added fading mechanic + mother exists in both worlds |
-| 7 | Generic inner critic | Father's voice continues after death |
+| 7 | 纯语言暴力的父亲 | 不会表达的父亲 + 三代人同一套剧本 |
 | 8 | Escapes cult, becomes teacher | Added: she speaks cult leader's EXACT phrases |
-| 9 | Meets monk, temple disappears | Delivers his own ashes from 30 years later |
-| 10 | Life as game (stole EP12's twist) | Life review from victim's perspective - forgiveness |
-| 11 | Mirror delay realization | Was told she was terrible person - chooses new identity |
+| 9 | 老婆跑了儿子不认 | 普通离婚、正常疏远、"就这样了" |
+| 10 | 哭三小时、三年不说话 | 迷茫沉默、假装看电脑、"个人原因"辞职 |
+| 11 | 前任来医院控诉 | 自己翻手机日记、发现被移出群聊、受害者心态 |
 | 12 | Arcade finale | Added connection to earlier episodes (sees familiar woman) |
 
 ---
