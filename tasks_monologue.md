@@ -54,6 +54,28 @@ After all scripts are generated:
 4. **Gentle Landing** (~2-3 min) — Integration
 5. **Closing Whisper** (~30 sec) — Single thought for sleep
 
+## 🔥 Engagement Framework (让人停不下来)
+
+### ⚡ Opening Hook (开场炸弹)
+- **前10秒定生死** — 不是温柔问问题，是丢一个"等等，什么？"的炸弹
+- 用反直觉的事实、科学发现、或刺痛的场景开场
+- 让听众立刻产生"我要继续听"的冲动
+
+### 🔄 Twist Points (反转点)
+- 每集至少2个"脑子炸一下"的时刻
+- 用 `original_concept.md` 里的物理学/哲学概念
+- 在听众以为理解了的时候，再翻转一层
+
+### 💔 Personal Wound Examples (刺痛的例子)
+- **禁止泛泛而谈**：不要"早餐店老板笑了"这种通用例子
+- 要用**具体到刺痛**的场景：名字、时间、细节
+- 让听众觉得"这说的就是我"
+
+### 🌅 Delayed Landing (延迟满足)
+- 不要急着治愈，让听众在"不舒服"里多待一会儿
+- 问题 → 更深的问题 → 背脊发凉 → 小小亮光 → 不完全闭合
+- 结尾可以不"晚安"，可以留一个开放的刺
+
 ## Audio Notes
 - Pace: ~130-140 words/minute (Chinese)
 - Natural pauses: 2-3 seconds between sections
@@ -101,6 +123,21 @@ Use this prompt to generate monologue scripts:
 **Core Question:** 你今天"在"吗？还是只是身体在，人不在？
 
 **Essence:** We sleepwalk through life, missing everything — the smiles, the sunsets, the small kindnesses. Not because life is boring, but because we're not there to receive it.
+
+### ⚡ Opening Hook (开场炸弹)
+> **"科学家说，你人生中90%的时间，大脑可能都是关机的。不是睡着——是醒着的时候。"**
+
+或者：
+> "有人做过一个实验：记录一整天里，你真正'在场'的时间。结果平均不到7分钟。剩下的十几个小时呢？你的身体在，人不在。"
+
+### 🔄 Key Twist Points
+1. **Twist 1 (The Film Reel):** "你不是在'过日子'，你只是播放器读到了这一帧胶片。但如果你不在场——这一帧算不算被读过？"
+2. **Twist 2 (Who's Missing):** "你一直以为生活很无聊。但也许不是生活无聊——是你不在。你戴着耳机抱怨世界没有声音，你闭着眼睛抱怨世界是黑暗的。"
+
+### 💔 Personal Wound Example
+> "有个朋友跟我说，她妈妈去世的那天她在开会。收到消息的时候她正在讲PPT。后来她一直记得那个PPT第三页是什么内容，却想不起来妈妈最后一次对她笑是什么时候。"
+>
+> "我们以为我们在'过日子'。其实我们只是在'耗日子'。"
 
 ---
 
@@ -228,6 +265,20 @@ Black background, elegant white Chinese text centered, minimalist typography, 16
 **Core Question:** 如果未来的你能寄一样东西给现在的你——是警告还是祝福？
 
 **Essence:** We carry the past like baggage and fear the future like a threat. But what if time isn't linear? What if the people we've lost still exist somewhere — and we're still here, with time left to live?
+
+### ⚡ Opening Hook (开场炸弹)
+> **"物理学家发现了一件你可能接受不了的事：你死去的亲人，现在还活着。不是比喻——是字面意思。"**
+
+或者：
+> "爱因斯坦如果现在还活着，他大概会用一种看傻子的眼神看着我们所有人，然后耸耸肩说一句：'别折腾了，根本没有什么过去、现在、未来。'"
+
+### 🔄 Key Twist Points
+1. **Twist 1 (Block Universe):** "想象一条很长的面包，已经烤好了。面包的一头是你出生时的嚎啕大哭，另一头是你生命终点那张安静的脸。我们只是一把刀，正在切到某一片。刀切到哪里，哪里就是'现在'。"
+2. **Twist 2 (They're Still There):** "那些离开的人，并没有真正'消失'。他们只是存在于另一片切片里。你还能想起他们的笑容——在某种意义上，他们还在那里。"
+3. **Twist 3 (The Irony):** "你以为时间在流动，其实只是你的视角在移动。秦始皇求长生不老药的那一刻，和你明天早上找不到袜子的那一刻，在时空里，是平等并列的。"
+
+### 💔 Personal Wound Example
+> "有个朋友跟我说，他爸走了三年了。但每次回老房子，他还是会习惯性地敲一下那扇门。他知道没人会应，但他说：'如果时间真的同时存在，那我敲门的这一刻，和他在门里面听到敲门声的那一刻——也许还是连着的。'"
 
 ---
 
@@ -360,6 +411,20 @@ Black background, elegant white Chinese text centered, minimalist typography, 16
 
 **Essence:** Your brain decides before "you" do. Your habits run you like code. But here's the twist — knowing you're code doesn't trap you. It frees you. Because the one noticing the code... isn't code.
 
+### ⚡ Opening Hook (开场炸弹)
+> **"你今天中午吃什么——这个决定，在138亿年前的一次粒子碰撞里，就已经埋下了伏笔。"**
+
+或者：
+> "科学家做过实验：他们能在你'做决定'之前7秒，就预测出你会选什么。不是猜——是在你大脑里看到答案了。你的意识只是最后一个知道的人。"
+
+### 🔄 Key Twist Points
+1. **Twist 1 (You're the Last to Know):** "你以为你在选麻辣烫。其实你只是在'被通知'你选了麻辣烫。决定早就做好了。"
+2. **Twist 2 (The Code Trap):** "如果一切都是代码，努力有什么意义？你喊'我要躺平'——这也是代码里的一句台词。你躺平后饿得受不了又爬起来搬砖——还是代码。你逃不掉。"
+3. **Twist 3 (The Observer):** "代码不知道自己是代码。但你——知道。那个正在听这些话的你，那个可以观察自己想法的你——不是代码。那个'看'的，才是真正的你。"
+
+### 💔 Personal Wound Example
+> "我认识一个人，他花了十年讨厌自己的性格。'我太敏感了'，'我不够外向'。后来他开始把这些当成代码来看：'哦，敏感程序又启动了。'他不再跟代码吵架。奇怪的是，他反而自由了。"
+
 ---
 
 ### Section 1: Opening Hook
@@ -489,6 +554,20 @@ Black background, elegant white Chinese text centered, minimalist typography, 16
 
 **Essence:** We build walls to protect ourselves from pain — from rejection, failure, judgment. But those walls become prisons. The child we once were is still inside, waiting for us to open the door.
 
+### ⚡ Opening Hook (开场炸弹)
+> **"你五岁那年发生的一件事，到现在还在操控你。你都忘了，但它没有。"**
+
+或者：
+> "有些人一辈子活在一堵墙里面——这堵墙是他们自己在七岁那年建的。他们忘了建过这堵墙，但墙还在。"
+
+### 🔄 Key Twist Points
+1. **Twist 1 (The First Brick):** "你画了一张画，兴冲冲给爸爸看。爸爸说：有这时间不如去做数学题。就那么一句话——你学到了：我喜欢的东西不重要。第一块砖，放下了。"
+2. **Twist 2 (Protection Becomes Prison):** "这些墙不是来伤害你的。它们是来保护你的。那个小时候的你，受伤了。你用这些墙把他关在里面，以为这样就不会再受伤。但你也把自己关在了外面。"
+3. **Twist 3 (The Key):** "这些墙是你建的。钥匙也在你手上。你只需要走进去，告诉那个小孩：我来了。你可以出来了。"
+
+### 💔 Personal Wound Example
+> "我认识一个人，他不敢在公开场合发言。后来他想起来：小学三年级，他回答问题错了，全班笑他。老师也笑了。就那么一次——二十年过去了，那个教室里的羞耻感，还住在他身体里。每次开会要发言，那个八岁的他就会出来说：别说了，他们会笑的。"
+
 ---
 
 ### Section 1: Opening Hook
@@ -616,6 +695,20 @@ Black background, elegant white Chinese text centered, minimalist typography, 16
 
 **Essence:** A leaf on the river doesn't fight the rocks. It flows around them. We exhaust ourselves trying to control what can't be controlled. Sometimes the bravest thing is to let go.
 
+### ⚡ Opening Hook (开场炸弹)
+> **"你追的不是云——你追的是水里的倒影。你越追，水面越乱，影子越散。"**
+
+或者：
+> "有些人用一辈子追一个东西，临死前才发现：他追的那个东西，从来就不存在。"
+
+### 🔄 Key Twist Points
+1. **Twist 1 (Chasing Reflections):** "你伸手摸水面，倒影碎了。但你抬头——天上的云，还在。你追的不是云，你追的是倒影。真正的东西不需要追。"
+2. **Twist 2 (What You Really Chase):** "你以为你在追那个人、那个目标、那个成就。其实你追的是'我足够好'这个感觉。你追的是证明自己。那个感觉——在外面是找不到的。"
+3. **Twist 3 (The Paradox):** "当你真的放手了，有时候事情反而来了。因为你不再散发'我需要这个'的信号。你变得完整了。完整的人，自然会吸引完整的缘分。"
+
+### 💔 Personal Wound Example
+> "我认识一个人，他追了一个女生七年。最后他放弃了——不是不爱了，是累了。奇怪的事情发生了：他不追了以后，反而遇到了另一个人。他说：'之前我浑身都在喊我很需要你。现在我不喊了，反而有人愿意靠近。'"
+
 ---
 
 ### Section 1: Opening Hook
@@ -741,6 +834,20 @@ Black background, elegant white Chinese text centered, minimalist typography, 16
 **Core Question:** 你是画里的人，还是画画的手？
 
 **Essence:** We feel torn between different versions of ourselves — worker, dreamer, child, adult. What if none of them is really "you"? What if you're the artist experiencing all these paintings?
+
+### ⚡ Opening Hook (开场炸弹)
+> **"工作时的你，和凌晨三点躺在床上失眠的你——他们见过面吗？他们认识吗？"**
+
+或者：
+> "你有没有觉得，你不是一个人。你是好几个人，轮流住在同一具身体里。"
+
+### 🔄 Key Twist Points
+1. **Twist 1 (Multiple Paintings):** "工作中的你是一幅画，家里的你是另一幅画，梦里的你是第三幅画。你一直在问：哪个是真的？但也许这个问题本身就问错了。"
+2. **Twist 2 (You're the Hand):** "也许这些都是'画'。而真正的你——是那只画画的手。不属于任何一幅画，只是在体验每一幅。"
+3. **Twist 3 (Never Changes):** "那些角色来来去去，会变，会演，会消失。但那个在看的——那个现在正在听我说话的——从来没变过。"
+
+### 💔 Personal Wound Example
+> "我认识一个人，她说她有'上班人格'和'回家人格'。上班的时候专业冷静，回到家就崩溃。她一直觉得这两个人不该同时存在。后来她试着问自己：谁在看这两个人？那一刻她发现——看的那个，不是上班的她，也不是崩溃的她。是另一个更安静的东西。一直在那里。"
 
 ---
 
@@ -869,6 +976,20 @@ Black background, elegant white Chinese text centered, minimalist typography, 16
 
 **Essence:** That critical inner voice — "you're not good enough" — where did it come from? A parent, a teacher, an old wound. But voices need a listener. That listener is the real you. And that one has never been hurt.
 
+### ⚡ Opening Hook (开场炸弹)
+> **"你脑子里那个一直骂你的声音——语气像不像你爸？或者你妈？"**
+
+或者：
+> "你脑子里住着一个人。他一直在说话。'你做不到的'，'别丢脸了'，'你看别人多好'。那个声音——是你吗？"
+
+### 🔄 Key Twist Points
+1. **Twist 1 (It's Not Yours):** "仔细听听，那个语气，像不像谁？也许像爸妈，也许像老师，也许像某个曾经伤害过你的人。他们说过的话，变成了你脑子里的录音。你以为那是自己的声音。其实不是。"
+2. **Twist 2 (Inherited Script):** "爸爸这样对你说，因为爷爷这样对他说。一代一代传下来的剧本。没有人问过：这个剧本，我要继续演吗？——直到你问。"
+3. **Twist 3 (The Listener):** "声音可以骂你。但那个听到声音的——从来没被骂到。那个不是声音，那个是你。声音来来去去。听的那个，一直都在。"
+
+### 💔 Personal Wound Example
+> "有个朋友跟我说，他脑子里有个声音，每次他做什么事都会说：'你不配。'后来他问自己：这个声音像谁？他发现——是他爸。他爸从来没夸过他。他把他爸的声音内化了三十年，每天用来骂自己。"
+
 ---
 
 ### Section 1: Opening Hook
@@ -996,6 +1117,20 @@ Black background, elegant white Chinese text centered, minimalist typography, 16
 
 **Essence:** We escape one cage only to build another. We leave behind beliefs and unknowingly speak the same words we fled. The only real freedom is admitting: "I don't know."
 
+### ⚡ Opening Hook (开场炸弹)
+> **"你最讨厌那个人说的话——有一天你会发现，你也在这样说。"**
+
+或者：
+> "有些人花一辈子逃离父母，最后变成了他们。更可怕的是——他们自己不知道。"
+
+### 🔄 Key Twist Points
+1. **Twist 1 (Escaping Into New Prisons):** "有时候我们逃离一个笼子——一个家庭、一种信仰、一套规则。我们以为自己自由了。但没多久，我们开始建新的笼子。用新的'正确答案'。"
+2. **Twist 2 (Speaking the Same Words):** "最可怕的一刻——是你发现自己在说你曾经逃离的话。那些你痛恨的论调，从你嘴里说出来了。你变成了你曾经反对的人。只是换了一套词汇。"
+3. **Twist 3 (Real Freedom):** "真正的自由不是找到正确答案——是不再需要正确答案。是可以说：这是我现在的理解，也许明天会变。是允许自己不知道。"
+
+### 💔 Personal Wound Example
+> "有个人跟我说，他年轻时恨透了爸爸的控制欲。他发誓自己绝不会那样。二十年后他有了孩子，有一天他听到自己说：'我是为你好。'他僵住了。那句话——一模一样。他用了二十年逃离的东西，还是追上了他。"
+
 ---
 
 ### Section 1: Opening Hook
@@ -1122,6 +1257,21 @@ Black background, elegant white Chinese text centered, minimalist typography, 16
 **Core Question:** 如果有一个"更高的你"想提醒你——他会用什么方式？
 
 **Essence:** What if being human is a game you chose? You picked "hard mode" and then forgot you were playing. The struggles are real because you made them real. And somewhere, another part of you is watching, reminding.
+
+### ⚡ Opening Hook (开场炸弹)
+> **"如果死后发现：你这一生所有的苦难，都是你自己设计的关卡——你会觉得自己是天才，还是傻子？"**
+
+或者：
+> "想象一下：你在进入这个世界之前，自己选了'困难模式'。然后你忘了自己选过了。现在你在游戏里，骂天骂地骂命运——其实都是你自己设计的。"
+
+### 🔄 Key Twist Points
+1. **Twist 1 (You Chose This):** "出生在不完美的家庭？你选的。遇到一些挫折？你选的。经历心碎、失败、迷茫？全是你选的。然后你进了游戏，忘了自己选过了。"
+2. **Twist 2 (The Forgetting):** "游戏的规则是：必须忘记自己在玩游戏。否则就不刺激了。你知道自己是演员的话，眼泪就流不下来。你知道自己在做梦的话，梦就醒了。"
+3. **Twist 3 (The Watcher):** "进入游戏之前，你把自己分成两部分。一部分进去玩，一部分留在外面看。那个留在外面的，一直在陪着你。有时候你会感觉：有人在看着我。那就是它。那就是你自己。"
+4. **Twist 4 (安之若命):** "既然改不了剧情，那你唯一能做的，就是把演技飙到极致，把体验感拉满。这就是庄子说的：安之若命。不是认命，是一种极其高级的幽默感。"
+
+### 💔 Personal Wound Example
+> "有个人跟我说，他一直觉得命运对他不公平。后来他试着用另一个视角看：如果这是我自己设计的，为什么要设计这些？他突然想到——也许是为了学会某些东西。也许有些课，只有困难模式才能上。那一刻，他没那么愤怒了。"
 
 ---
 
@@ -1266,126 +1416,140 @@ Black background, elegant white Chinese text centered, minimalist typography, 16
 
 ---
 
-# EP10: 原谅 (Forgiveness)
+# EP10: 空虚 (Emptiness)
 - ⬜ Script generated
 
 ## Core Theme
-**Core Question:** 你伤害过谁没道歉？谁伤害你没原谅？
+**Core Question:** 你得到了想要的——然后呢？
 
-**Essence:** We carry grudges like stones, guilt like chains. But what if those we hurt have already moved on? What if we're the only ones still holding on? Forgiveness isn't for them. It's for us.
+**Essence:** You chase the goal, you get the thing, you win the game. And then... nothing. The emptiness after achievement is one of the most unspeakable experiences. What if that void is trying to tell you something?
+
+### ⚡ Opening Hook (开场炸弹)
+> **"你有没有那种时刻——目标达成了，钱赚到了，那个人追到了——但你心里一点感觉都没有？像是有人把你的内脏掏空了，只剩下一个壳在那里微笑？"**
+
+或者：
+> "有些人一辈子在爬山。终于爬到山顶了，四周一看——空的。他站在那里想：就这？然后他发现一件更可怕的事：他不知道接下来要干嘛了。"
+
+### 🔄 Key Twist Points
+1. **Twist 1 (The Arrival Fallacy):** "你以为到达终点就会幸福。心理学有个词叫'到达谬误'——我们以为'只要我得到那个东西，一切就会好起来'。然后你得到了。然后你发现：还是那个你。还是那种空。"
+2. **Twist 2 (Chasing the Wrong Thing):** "也许那种空虚是一种信号。它在说：你追的那个东西，不是你真正想要的。你追的是别人告诉你应该想要的。你追的是证明、是认可、是'让他们看看我行不行'。那些是燃料，但不是目的地。"
+3. **Twist 3 (The Void Speaks):** "那个空洞不是敌人。它是一扇门。它在问你一个很简单的问题：如果这些都不是答案——那什么是？"
+
+### 💔 Personal Wound Example
+> "有个人跟我说，他花了十年创业，终于把公司卖了。几千万到账那天晚上，他躺在床上，盯着天花板，哭了。不是高兴。是一种他从来没感受过的空。他说：'我突然不知道我是谁了。这十年我就是那家公司。现在公司没了，我也没了。'"
 
 ---
 
 ### Section 1: Opening Hook
 **CONTENT:**
-- 你有没有伤害过一个人——到现在还没道歉？
-- 不是因为你不想
-- 是因为你不知道怎么开口
-- 或者觉得已经太晚了
+- 你有没有那种时刻——目标达成了，但心里空得要命？
+- 升职了，但没感觉
+- 追到那个人了，但几个月后觉得：就这样？
+- 你以为到达终点会幸福。但你到了，发现什么都没有
 
 **IMAGE PROMPT:**
 ```
-Person standing alone looking at phone, unsent message on screen, weight of words unspoken, 16:9
+Person standing on mountain peak alone, vast empty horizon, paradox of achievement and emptiness, cinematic, 16:9
 ```
 
 ---
 
-### Section 2: The Weight
+### Section 2: The Arrival Fallacy
 **CONTENT:**
-- 那件事可能过去很久了
-- 但你还记得
-- 那天晚上做的事，说的话
-- 对方的表情，然后的沉默
-- 你一直记得
+- 心理学有个词叫"到达谬误"
+- 我们以为：只要我得到那个东西，一切就会好起来
+- 只要我赚够钱，只要我找到对的人，只要我成功
+- 然后你得到了。然后你发现——
+- 还是那个你。还是那种空
 
 **IMAGE PROMPT:**
 ```
-Person carrying invisible heavy weight, the burden of guilt, dark but not hopeless, 16:9
+Person at finish line of race, confetti falling, but expression is hollow and confused, 16:9
 ```
 
 ---
 
-### Section 3: The Other Side
+### Section 3: What You Were Really Chasing
 **CONTENT:**
-- 你知道最奇怪的事是什么吗？
-- 也许对方早就不在意了
-- 他们有自己的生活，自己的故事
-- 那件事对你来说很重
-- 但对他们来说，可能只是个小插曲
+- 也许那种空虚是一种信号
+- 它在说：你追的那个东西，不是你真正想要的
+- 你追的是别人告诉你"应该想要"的
+- 你追的是证明、是认可、是"让他们看看我行不行"
+- 那些是燃料，但不是目的地
 
 **IMAGE PROMPT:**
 ```
-Split image: person holding onto something tightly, while the other person has moved on, walking freely, 16:9
+Person chasing a glowing orb that keeps moving away, realizing they're chasing something that doesn't exist, 16:9
 ```
 
 ---
 
-### Section 4: The Real Question
+### Section 4: The Void Speaks
 **CONTENT:**
-- 有时候我们不是在等对方原谅我们
-- 我们是在等自己原谅自己
-- "我怎么能做出那种事？"
-- "我怎么能是那样的人？"
-- 最严厉的法官，住在自己心里
+- 那个空洞不是敌人。它是一扇门
+- 它在问你一个很简单的问题：
+- 如果这些都不是答案——那什么是？
+- 也许你活了三十年，从来没问过自己真正想要什么
+- 因为你一直在完成别人的清单
 
 **IMAGE PROMPT:**
 ```
-Person looking in mirror, but reflection is harsh judge pointing finger, self-judgment, 16:9
+Dark doorway with soft light beyond, the void as invitation, mysterious but not scary, 16:9
 ```
 
 ---
 
-### Section 5: Permission to Let Go
+### Section 5: The Real Question
 **CONTENT:**
-- 那时候的你，做了他能做的最好的选择
-- 不是说那是对的
-- 而是说：那就是当时的你
-- 你已经不是那个人了
-- 你变了。变化本身，就是某种赎罪
+- 如果明天你什么都有了——钱、名、爱情、地位
+- 全部都有了
+- 然后呢？
+- 那个"然后呢"，才是你真正要面对的问题
+- 不是"我要得到什么"，是"我到底在活什么"
 
 **IMAGE PROMPT:**
 ```
-Old version of self dissolving into light, new version emerging, transformation as redemption, 16:9
+Person surrounded by symbols of success (money, trophies, partner) but looking past them at something unseen, 16:9
 ```
 
 ---
 
-### Section 6: The Other Direction
+### Section 6: Filling vs. Feeling
 **CONTENT:**
-- 反过来呢？
-- 谁伤害了你，你还没有原谅？
-- 也许他们也在某个地方，背着同样的石头
-- 也许他们早就忘了
-- 唯一还被困住的，只有你
+- 很多人用东西填空虚
+- 买东西、刷手机、找刺激、谈新恋爱
+- 但那种空，不是靠填的
+- 它需要被听见
+- 它在等你停下来，问它：你想告诉我什么？
 
 **IMAGE PROMPT:**
 ```
-Person holding chain attached to the past, realizing they can let go anytime, freedom is a choice, 16:9
+Person sitting still among chaos of consumerism and distraction, finally listening to the silence, 16:9
 ```
 
 ---
 
 ### Section 7: Closing Whisper
 **CONTENT:**
-- 原谅不是说那件事没发生
-- 原谅是说：我不想再背着这块石头了
-- 我放下了。不是为了谁，是为了自己
-- 你可以发那条消息
-- 也可以不发。在心里说就够了
+- 如果你现在感觉很空
+- 也许这不是坏事
+- 也许这是你第一次诚实地问自己
+- 我到底想要什么？不是他们想要的。是我想要的
+- 那个问题没有答案。但它值得问
 
 **IMAGE PROMPT:**
 ```
-Hands releasing stones into deep water, letting go, sinking away, peace, 16:9
+Person sitting alone under stars, peaceful acceptance of not knowing, the beauty of the question, 16:9
 ```
 
 ---
 
 ### Closing
 **TEXT ON SCREEN:**
-> 你伤害过谁，还没有道歉？
-> 谁伤害过你，你还没有原谅？
-> 也许他们早就放下了——
-> 还抓着不放的，只有你自己
+> 你得到了想要的——然后呢？
+> 如果到达终点后还是空的
+> 也许你爬的是别人的山
+> 那你自己的山在哪里？
 
 **IMAGE PROMPT:**
 ```
@@ -1401,6 +1565,20 @@ Black background, elegant white Chinese text centered, minimalist typography, 16
 **Core Question:** 如果明天失忆——你会选择成为谁？
 
 **Essence:** Who would you be without your memories, your stories, your labels? The truth: you don't need to lose your memory to start over. That choice is available right now.
+
+### ⚡ Opening Hook (开场炸弹)
+> **"你所有的焦虑、自我怀疑、心理包袱——都是靠记忆维持的。如果有一天你全忘了——那些东西，也就不存在了。"**
+
+或者：
+> "假设明天你忘了一切——你会变成什么样的人？这里有个诡异的可能：失忆后的你，可能比现在的你活得更好。"
+
+### 🔄 Key Twist Points
+1. **Twist 1 (Labels are Clothes):** "'我是一个容易焦虑的人'，'我是一个不擅长社交的人'——这些是你？还是你穿的衣服？衣服可以换。你不是衣服。"
+2. **Twist 2 (The Story You Tell):** "我们每个人都在讲一个关于自己的故事。'我是受害者'，'我总是运气不好'，'我不值得被爱'。这些故事不全是假的——但它们也不全是真的。更重要的是——它们可以改。"
+3. **Twist 3 (No Amnesia Needed):** "你不需要真的失忆才能重新开始。每一天早上醒来，你都可以问自己：今天我想成为谁？不是'我应该是谁'。是'我想成为谁'。"
+
+### 💔 Personal Wound Example
+> "有个人跟我说，他花了三十年讲一个故事：'我是一个被父母抛弃的孩子。'这个故事是真的。但有一天他发现，这个故事在控制他。他的每一个选择都在证明这个故事。后来他试着讲另一个故事：'我是一个学会了独立的人。'同样的童年，不同的结论。他说那一刻，好像换了一个人。"
 
 ---
 
@@ -1529,6 +1707,21 @@ Black background, elegant white Chinese text centered, minimalist typography, 16
 **Core Question:** 你正在经历的——就是你选的
 
 **Essence:** The final episode. A gentle reminder that this life, with all its pain and beauty, might be exactly what you signed up for. Welcome back. Keep playing.
+
+### ⚡ Opening Hook (开场炸弹)
+> **"你——正在听这些话的你——这不是巧合。你选了这个时刻，听到这些话。为什么？"**
+
+或者：
+> "如果有一天你醒过来，发现刚才那一切——那些痛苦、那些挣扎、那些你恨过的人——全是你自己在电影里安排的剧情……你会原谅自己吗？"
+
+### 🔄 Key Twist Points
+1. **Twist 1 (The Arcade):** "想象你死后站在一个巨大的游戏厅。到处是机器，每台机器都在播放一段人生。皇帝、乞丐、男人、女人、长寿、短命。你刚刚玩完的那一局——就是你现在的人生。"
+2. **Twist 2 (The Reunion):** "大幕落下，灯光亮起。你摘下头盔，发现周围坐着的都是你这一生遇到过的人。你爱过的，恨过的，甚至那个骗过你钱的人。他们也摘下头盔，相视一笑。那个伤害过你的人走过来拍拍你肩膀说：'兄弟，刚才那场戏我是不是下手太重了？下一场换你演反派，咱们扯平。'"
+3. **Twist 3 (The Fourth Wall):** "现在，我想打破第四面墙。你——正在听这些话的你——你选了这一局。你选了这个时代，这个身体，这些故事。你是玩家，也是观众，也是游戏设计师。"
+4. **Twist 4 (The Final Message):** "别把游戏当真——但要玩得认真。因为每一刻，都是你用'存在'这种珍贵货币买来的。欢迎回来。请继续游戏。"
+
+### 💔 Personal Wound Example
+> "如果真是这样——你现在纠结的一切，那些面子、恩怨、执念——是不是突然就散了？那个你恨了十年的人，也许只是在演一个角色。演得太逼真了，你忘了他也是演员。"
 
 ---
 
