@@ -561,159 +561,136 @@ Black background, elegant white Chinese text centered, minimalist typography, 16
 
 ---
 
-# EP04: 监狱建筑师
+# EP04: 念头 (You Are Not Your Thoughts)
 - ✅ Script generated
+
+## NEW CONCEPT (Updated 2026-01-09)
+**Core Question:** 如果念头不是你——那谁在听？
+
+**Essence:** Thoughts arise on their own. You can't stop thinking. So how can thoughts be "yours"? You are not the thoughts — you are the awareness that watches them. Connects to EP03 "code" concept: thoughts are code output, but the observer is not code.
+
+**Key Concepts:** 焦虑作为保护机制, 母亲的声音 (Mom's Voice), 斯德哥尔摩综合症, 天气与打伞, 你是天空
 
 ## Story + Image Prompts
 
-### Scene 1: Opening
+### Scene 1: The Voice
 **STORY:**
-- 悬念：如果困住你的牢笼，是你自己建的——你会怎么办？
-- 引入：阿伦，45岁，建筑师
-- 他醒来，发现自己在一个纯白色的房间里，没有门窗
+- 志明觉得自己活得很累。不是身体累，是脑子累。
+- 脑子里有个声音，一天到晚没停过。小心翼翼的唠叨。
+- "钥匙带了吗？" "PPT检查了吗？" "语气是不是太硬了？"
+- 他活得像走钢丝。
 
 **IMAGE PROMPT:**
 ```
-Asian man standing in completely white empty room, no doors or windows, minimalist, Kubrick-inspired, cinematic, 16:9
+Person walking on tightrope in foggy city, distorted shadow whispering in their ear, intense focus and anxiety, cinematic, 16:9
 ```
 
 ---
 
-### Scene 2: Trapped
+### Scene 2: The Logic (Protector)
 **STORY:**
-- 他拍墙、喊叫、用肩膀撞
-- 什么都没用
+- 他觉得声音在保护他。"多亏我这么小心才没出大错。"
+- 焦虑成了护身符。他不敢停。
+- 觉得一放松就会出事。
 
 **IMAGE PROMPT:**
 ```
-Asian man desperately pushing against white walls, claustrophobic, harsh lighting, panic visible, cinematic, 16:9
+Person hugging a shield that is actually made of thorns, painful but perceived as protection, cinematic, 16:9
 ```
 
 ---
 
-### Scene 3: The Message
+### Scene 3: The Breakdown
 **STORY:**
-- 墙上有一行小字："这个房间是你自己设计的。"
-- 他不信
-- 继续找出口
+- 接了大项目，声音疯了。"你做不到的。" "万一搞砸了。"
+- 坐了一整夜写不出字。
+- 崩溃大喊：闭嘴！
+- 声音反而更大：你看，你崩溃了，我就说你不行。
 
 **IMAGE PROMPT:**
 ```
-Small text on white wall "这个房间是你自己设计的", mysterious, minimalist, cinematic, 16:9
+Person screaming in a room filled with floating text of self-doubt, overwhelmed, chaotic, cinematic, 16:9
 ```
 
 ---
 
-### Scene 4: The First Wall - Memory
+### Scene 4: The Recognition (Mom)
 **STORY:**
-- 他停下来，盯着第一面墙
-- 墙上开始浮现画面：
-- 他12岁，画了一张画，很得意，拿给爸爸看
-- 爸爸瞄了一眼说："有这时间不如去做数学题。"
-- 然后继续看报纸
-- 他站在那里，不知道该把画放哪
-- 最后他把画塞进书包底层，再也没拿出来过
-- 他认出这面墙：这是"我喜欢的东西不重要"
+- 公园里听到阿姨训孩子："妈是为你好！万一出事怎么办！"
+- 那个语气。那个"万一"。
+- 他发现：那是他妈的声音。
+- 内化了母亲的焦虑。
 
 **IMAGE PROMPT:**
 ```
-White wall showing ghostly image of young boy holding a drawing, father reading newspaper ignoring him, quiet rejection, ethereal, cinematic, 16:9
+Park scene, mother scolding child in background, protagonist in foreground realizing something, silhouette of mother superimposing on his head, cinematic, 16:9
 ```
 
 ---
 
-### Scene 5: The Other Walls - More Memories
+### Scene 5: The Origin
 **STORY:**
-- 第二面墙：25岁，第一份工作，开会时提了个想法
-- 老板说："这个我们之前试过了，不行。"
-- 其实老板只是随口一说
-- 但他之后再也没在会上主动发过言
-- 这是"我的想法是错的"
-- 第三面墙：35岁，妈妈生病住院，他请假回家照顾
-- 有一天妈妈说："你回去吧，别耽误工作。"
-- 他回去了。三天后妈妈走了，他没见到最后一面
-- 他知道妈妈是心疼他。但他一直在想："如果我没走呢？"
-- 这是"我总是做错选择"
-- 第四面墙：一面镜子，里面是一个小男孩，蜷缩着，害怕
-- 那是童年的他
+- 小时候妈妈总说"危险"、"万一"。
+- 妈妈缺乏安全感，用焦虑表达爱。
+- 志明吞下了这份爱和焦虑。
+- 三十年了，录音机还在转。
 
 **IMAGE PROMPT:**
 ```
-Four walls showing different painful memories - ignored in meeting, mother in hospital bed waving goodbye, scared child in mirror - each wall a prison, emotional, cinematic, 16:9
+Flashback: Young boy accepting a heavy dark stone (anxiety) from mother as if it were a gift, 16:9
 ```
 
 ---
 
-### Scene 6: The Truth
+### Scene 6: The Separation
 **STORY:**
-- 他明白了：
-- 这个房间是他建的
-- 不是为了困住自己
-- 而是为了保护那个小男孩
-- 他用这些墙把童年的自己关在里面，以为这样就不会再受伤
-- 但他也把自己关在了外面
+- 对话："妈，谢谢你保护我。但我长大了。"
+- "这里没有老虎。"
+- 声音还在嘀咕，但他不再认同了。
 
 **IMAGE PROMPT:**
 ```
-Asian man touching the mirror wall gently, seeing his child self inside, understanding dawning, emotional, cinematic, 16:9
+Adult man gently pushing aside a shadowy figure that looks like a protective mother, stepping into the light, 16:9
 ```
 
 ---
 
-### Scene 7: Releasing
+### Scene 7: The Train Station
 **STORY:**
-- 他对着镜子里的小男孩说：
-- "对不起。我以为这样能保护你。"
-- "但你已经长大了。我们不需要这些墙了。"
-- 他拥抱镜子
-- 四面墙开始变透明，然后消失
+- 以前像追火车一样追念头。
+- 现在站在站台上。
+- 看着"焦虑"号列车进站，停下，开走。
+- 他没有上车。
 
 **IMAGE PROMPT:**
 ```
-Asian man embracing the mirror, light breaking through walls, walls becoming transparent and dissolving, liberation, cinematic, 16:9
+Man standing calmly on train platform, blurry train rushing by labeled 'Anxiety', he is still, 16:9
 ```
 
 ---
 
-### Scene 8: Outside (TWIST)
+### Scene 8: The Sky
 **STORY:**
-- 外面是草地、天空
-- 但他发现：还有无数个白色房间，延伸到天边
-- 每个房间里都关着一个人
-- 他路过一个，往里看——
-- 里面是另一个他，还在拍墙
-- 他想敲门告诉他，但手穿过了门
-- [停顿]
-- 每个人只能自己打开自己的门
+- 抬头看天。有云。
+- 念头是云，他是天空。
+- 开始写方案，心很静。声音还在，像背景噪音。
+- 天空不在乎云怎么飘。
 
 **IMAGE PROMPT:**
 ```
-Infinite white rooms stretching to horizon, each containing a person, protagonist looking at another version of himself trapped, Escher-inspired, cinematic, 16:9
+Man working calmly at laptop, semi-transparent clouds passing through him, serene blue sky background, 16:9
 ```
+
+**"那个人" 出现:** 站台上远处的一个模糊人影，拿着一把伞
 
 ---
 
-### Scene 9: Resolution
-**STORY:**
-- 他继续往前走
-- 远处有一道光
-- 他不知道还有多少层
-- 但他不再害怕
-- 因为他知道：锁和钥匙，都在自己手上
-
-**IMAGE PROMPT:**
-```
-Silhouette walking toward bright light, infinite space around, hopeful but uncertain, cinematic, 16:9
-```
-
-**"那个人" 出现:** 白墙上淡淡的人形水渍
-
----
-
-### Scene 10: 灵魂拷问
+### Scene 9: 灵魂拷问
 **TEXT ON SCREEN:**
-> 你现在在哪一层？
-> 那面墙，保护的是谁？
+> 那个声音不是你
+> 你是那个在听的
+> 你不是云
+> 你是天空
 
 **IMAGE PROMPT:**
 ```
@@ -722,154 +699,132 @@ Black background, elegant white Chinese text centered, minimalist typography, 16
 
 ---
 
-# EP05: 河流
+# EP05: 阴影 (The Shadow Self)
 - ✅ Script generated
+
+## NEW CONCEPT (Updated 2026-01-09)
+**Core Question:** 你最讨厌别人的那一面——有没有可能是你自己？
+
+**Essence:** Carl Jung's Shadow — the parts of ourselves we reject and deny. We project them onto others. What we hate in others is often what we refuse to see in ourselves. True wholeness comes from integrating the shadow, not fighting it.
+
+**Key Concepts:** 隐形契约 (Martyr), 恐惧的伪装 (Realist), 自由的囚徒 (Prisoner), 金色阴影, 关系的镜子
 
 ## Story + Image Prompts
 
-### Scene 1: Opening
+### Scene 1: The Good Person
 **STORY:**
-- 悬念：你有没有拼命想抓住一个人，却把他推得更远？
-- 引入：林默，45岁，公司老板
-- 但这个故事不是关于公司
-- 是关于他的女儿
+- 晓航觉得自己是好人。最早到最晚走。
+- 她恨林悦。林悦准时下班，去普拉提，去约会。
+- 晓航觉得林悦自私、冷血。
 
 **IMAGE PROMPT:**
 ```
-Middle-aged Asian businessman alone in large office at night, looking at phone showing unanswered messages, lonely, cinematic, 16:9
+Office scene: 晓航 burdened with files looking angry, 林悦 leaving happily with gym bag, contrast, 16:9
 ```
 
 ---
 
-### Scene 2: The Daughter
+### Scene 2: The Eruption
 **STORY:**
-- 女儿小雨，22岁，三年没跟他说话了
-- 起因是她大学选了艺术系
-- 他没有大吵。他只是叹了口气，说："随你吧。"
-- 但从那之后，每次打电话，他都会问：
-- "找到工作了吗？" "能养活自己吗？" "有没有存钱？"
-- 女儿开始不接电话了
-- 他不明白：我只是关心她啊
-- 电话不接，微信不回，过年不回家
-- 他试过一切：道歉、转钱、托人带话
-- 她就是不理他
+- 周五急活。林悦说买了票直接走了。
+- 晓航一边哭一边改方案。
+- "凭什么坏人享受，好人受苦？"
 
 **IMAGE PROMPT:**
 ```
-Split image: father looking at phone on one side, daughter ignoring phone on other side, distance between them, emotional, cinematic, 16:9
+晓航 alone in dark office crying, light from screen, outside window city lights and fun, 16:9
 ```
 
 ---
 
-### Scene 3: The Last Attempt
+### Scene 3: The Therapist
 **STORY:**
-- 他去女儿的城市出差，想着顺便见一面
-- 提前一周发微信问她有没有时间
-- 女儿说："那几天挺忙的。"
-- 他说："就吃顿饭。"
-- 女儿说："我看看吧。"
-- 出差结束，她没来
-- 他一个人坐在酒店房间里，看着窗外的城市灯光
-- 订了最早的航班回家
+- 咨询师问："你想去音乐剧吗？"
+- "如果昨晚你也买了票，你会走吗？"
+- "你恨她，是因为她不负责任？还是因为她没受苦就配快乐？"
 
 **IMAGE PROMPT:**
 ```
-Middle-aged Asian man alone in hotel room at night, looking out window at city lights, empty chair across from him, quiet devastation, cinematic, 16:9
+Therapy room, old therapist leaning forward, intense realization on 晓航's face, 16:9
 ```
 
 ---
 
-### Scene 4: The River
+### Scene 4: The Hidden Contract
 **STORY:**
-- 回家后，他开车去郊区透气
-- 停在一条河边，只是想抽根烟
-- 他看着河水，开始想：我到底做错了什么？
-- 他已经没力气了。人生第一次，完全不知道该怎么办
+- 隐形契约："只要我受苦，就以换来爱。"
+- 林悦打破了规则：没受苦也活得很好。
+- 你嫉妒她。你本来也可以走。
 
 **IMAGE PROMPT:**
 ```
-Middle-aged Asian man sitting by car near riverbank, smoking, dawn light, exhausted and lost, contemplative, cinematic, 16:9
+Visual of a contract burning, or a cage dissolving showing it was never locked, 16:9
 ```
 
 ---
 
-### Scene 5: The Leaf
+### Scene 5: The Prisoner
 **STORY:**
-- 一片叶子从上游漂下来
-- 它碰到石头，就绕开
-- 碰到漩涡，就转一圈
-- 碰到浅滩，就停下来，等水涨了再走
-- 它从不"努力"。它就是跟着流
+- 想起妈妈"舍不得吃"。
+- 晓航不敢快乐。把快乐当罪恶。
+- 她把自己关在"好人"笼子里。
+- 她恨林悦，其实是嫉妒那双没戴镣铐的脚。
 
 **IMAGE PROMPT:**
 ```
-Single autumn leaf floating on river, navigating around rocks naturally, beautiful morning light, meditative, cinematic, 16:9
+Child version of 晓航 inside a cage made of "gold stars" or "awards", looking out at freedom, 16:9
 ```
 
 ---
 
-### Scene 6: The Reflection (TWIST)
+### Scene 6: The Golden Shadow
 **STORY:**
-- 他看着水里的倒影——天空、云
-- 他一直在追女儿
-- 就像追水里的云
-- 越追，水面越乱，云越看不清
-- [停顿]
-- 他伸手摸水面，倒影碎了
-- 但他抬头——天上的云，还在
+- 林悦是阴影。活出了"爱自己"。
+- 那叫自我照顾，叫边界感。
+- "天不会塌下来的。"
 
 **IMAGE PROMPT:**
 ```
-Perfectly still water reflecting sky, hand reaching toward surface causing ripples, clouds above unchanged, dreamy, cinematic, 16:9
+Shadow on wall transforming from a monster into a golden glowing figure, 16:9
 ```
 
 ---
 
-### Scene 7: The Realization
+### Scene 7: The Test
 **STORY:**
-- 他突然明白：
-- 他追的不是女儿
-- 他追的是"我是个好父亲"这个倒影
-- 每一次追，都是在说"你看我多爱你"
-- 但她需要的不是他的追
-- 她需要的是空间
-- 他以为放手就是放弃
-- 但有时候，放手才是爱
+- 临下班任务。林悦在涂口红发光。
+- 晓航鼓起勇气拒绝："我今晚有事。"
+- 老板同意了。没骂她。
+- 天没塌。
 
 **IMAGE PROMPT:**
 ```
-Asian man sitting by river, expression changing from desperate to peaceful understanding, morning light, transformation moment, cinematic, 16:9
+Close up on 晓航's face saying "No", fear turning into relief, 16:9
 ```
 
 ---
 
 ### Scene 8: Resolution
 **STORY:**
-- 他回到家，没有再打电话
-- 没有再发微信
-- 他只做了一件事：
-- 给她转了一笔钱，备注写：
-- "不需要回复。不需要原谅。只是爸爸想让你知道，不管怎样，我都在。"
-- 然后他放下手机，不再看
-- 两年后，她回家了
-- 什么都没说，只是坐在他旁边
-- 他也什么都没问
-- 他们就那样坐着，看电视
-- 像水面平静下来，云的倒影，终于清晰了
+- 走出大楼，夕阳。
+- 发微信给林悦问音乐剧。
+- "自私"的自己被接回了家。不再需要通过恨别人证明清白。
 
 **IMAGE PROMPT:**
 ```
-Father and adult daughter sitting side by side on couch watching TV, not talking but peaceful, reconciliation, warm lighting, cinematic, 16:9
+Warm sunset city street, 晓航 walking freely, merging with her golden shadow side, 16:9
 ```
 
-**"那个人" 出现:** 河对岸远处钓鱼的人
+**"那个人" 出现:** 街角玻璃反光里这瞬间的自己
 
 ---
 
 ### Scene 9: 灵魂拷问
 **TEXT ON SCREEN:**
-> 你在抓住什么？
-> 如果松手，会怎样？
+> 你最讨厌的人
+> 是你最想成为的人
+> 把那部分拿回来
+> 你才完整
 
 **IMAGE PROMPT:**
 ```

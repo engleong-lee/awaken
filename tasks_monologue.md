@@ -418,7 +418,7 @@ Black background, elegant white Chinese text centered, minimalist typography, 16
 > "科学家做过实验：他们能在你'做决定'之前7秒，就预测出你会选什么。不是猜——是在你大脑里看到答案了。你的意识只是最后一个知道的人。"
 
 ### 🔄 Key Twist Points
-1. **Twist 1 (You're the Last to Know):** "你以为你在选麻辣烫。其实你只是在'被通知'你选了麻辣烫。决定早就做好了。"
+1. **Twist 1 (You're the Last to Know):** "你以为你在选汉堡。其实你只是在'被通知'你选了汉堡。决定早就做好了。"
 2. **Twist 2 (The Code Trap):** "如果一切都是代码，努力有什么意义？你喊'我要躺平'——这也是代码里的一句台词。你躺平后饿得受不了又爬起来搬砖——还是代码。你逃不掉。"
 3. **Twist 3 (The Observer):** "代码不知道自己是代码。但你——知道。那个正在听这些话的你，那个可以观察自己想法的你——不是代码。那个'看'的，才是真正的你。"
 
@@ -457,13 +457,13 @@ Abstract brain visualization with flowing data streams, decisions being made bef
 
 ### Section 3: The Code
 **CONTENT:**
-- 你今天中午点外卖选了什么？麻辣烫还是盖浇饭？
+- 你今天中午点外卖选了什么？汉堡还是披萨？
 - 你以为是自由意志
 - 但这个选择，很可能在几亿年前的一次粒子碰撞里，就已经埋下了伏笔
 - 童年口味 + 昨天看到的广告 + 今天的心情 + 无数你不知道的变量
 - 全部加在一起，输出一个"决定"
 - 你的大脑，只是一台极其复杂的生化计算机
-- 输入环境参数，输出"麻辣烫"这个结果
+- 输入环境参数，输出"汉堡"这个结果
 - 你只是在执行代码
 
 **IMAGE PROMPT:**
@@ -535,7 +535,7 @@ Peaceful figure observing thoughts drift away like clouds or leaves, gentle mast
 
 ### Closing
 **TEXT ON SCREEN:**
-> 如果你是NPC——
+> 如果你只是一段程序——
 > 你想知道吗？
 > 还是说，你已经知道了，只是假装忘记？
 
@@ -546,139 +546,185 @@ Black background, elegant white Chinese text centered, minimalist typography, 16
 
 ---
 
-# EP04: 内在牢笼 (Inner Prisons)
+# EP04: 念头 (You Are Not Your Thoughts)
 - ⬜ Script generated
 
 ## Core Theme
-**Core Question:** 那面墙，保护的是谁？
+**Core Question:** 如果念头不是你——那谁在听？
 
-**Essence:** We build walls to protect ourselves from pain — from rejection, failure, judgment. But those walls become prisons. The child we once were is still inside, waiting for us to open the door.
+**Essence:** Thoughts arise on their own. You can't stop thinking. So how can thoughts be "yours"? You are not the thoughts — you are the awareness that watches them. This connects directly to EP03's "code" concept: thoughts are code output, but the observer is not code.
+
+**Connection to Series:** 念头=代码输出。延续EP03的"代码不知道自己是代码，但你知道"。你是观察者，不是念头。为EP06双重存在和EP07内在声音做铺垫。
 
 ### ⚡ Opening Hook (开场炸弹)
-> **"你五岁那年发生的一件事，到现在还在操控你。你都忘了，但它没有。"**
-
-或者：
-> "有些人一辈子活在一堵墙里面——这堵墙是他们自己在七岁那年建的。他们忘了建过这堵墙，但墙还在。"
+> **"你脑子里那个一直在说话的声音——如果它是一个真人，你早就报警了。'你不够好。' '他们会笑你。' '你永远比不上别人。' 这种人，你会让他住在你家吗？但问题是——他已经住了二三十年了。"**
 
 ### 🔄 Key Twist Points
-1. **Twist 1 (The First Brick):** "你画了一张画，兴冲冲给爸爸看。爸爸说：有这时间不如去做数学题。就那么一句话——你学到了：我喜欢的东西不重要。第一块砖，放下了。"
-2. **Twist 2 (Protection Becomes Prison):** "这些墙不是来伤害你的。它们是来保护你的。那个小时候的你，受伤了。你用这些墙把他关在里面，以为这样就不会再受伤。但你也把自己关在了外面。"
-3. **Twist 3 (The Key):** "这些墙是你建的。钥匙也在你手上。你只需要走进去，告诉那个小孩：我来了。你可以出来了。"
+1. **Twist 1 (Why You Keep It):** "你为什么不赶走那个声音？因为你觉得它在保护你。'如果我不担心，我就没法做好准备。'这是一种斯德哥尔摩综合症。"
+2. **Twist 2 (The Paradox):** "你一直责怪自己想太多。但你想不想——不是你能控制的。就像你不能控制心跳。责怪自己想太多，就像责怪自己为什么有心跳。"
+3. **Twist 3 (Mom's Voice):** "那个声音像谁？听那个语气。那是你妈的声音。你内化了她的焦虑。她想保护你，所以她给你装了这个'焦虑警报器'。但你已经长大了，不需要警报器了。"
+4. **Twist 4 (Who Is Listening):** "如果那个声音不是你——那谁在听？那个能观察声音的，才是你。那个听的，不是代码。"
+5. **Twist 5 (Weather Metaphor):** "不用赶走念头。它只是天气。你不会跟下雨吵架。你只需要打伞。你是那个打伞的人，不是雨。"
+6. **Twist 6 (You Are The Sky):** "代码不知自己是代码。但你能意识到这点，说明你有超越代码的部分。你是让念头存在的空间。你是天空。"
 
 ### 💔 Personal Wound Example
-> "我认识一个人，他不敢在公开场合发言。后来他想起来：小学三年级，他回答问题错了，全班笑他。老师也笑了。就那么一次——二十年过去了，那个教室里的羞耻感，还住在他身体里。每次开会要发言，那个八岁的他就会出来说：别说了，他们会笑的。"
+> "有个人跟我说，他脑子里有个声音，从小到大一直在说：'你不配。'后来他问自己：这个声音像谁？他发现——是他妈。她总是说'小心点，万一出事怎么办'。他把他妈的声音内化了三十年，每天用来吓唬自己。但那不是他。那只是一个过时的保护程序。"
 
 ---
 
 ### Section 1: Opening Hook
 **CONTENT:**
-- 你有没有觉得，有些事你明明可以做，但就是做不到？
-- 想开口表达，但话到嘴边就咽回去
-- 想去尝试，但一想到失败就退缩
-- 好像有一面墙，拦在你和那些可能性之间
+- 你脑子里那个一直在说话的声音——如果它是一个真人
+- 你早就报警了
+- "你不够好。" "他们会笑你。" "你永远比不上别人。"
+- 这种人，你会让他住在你家吗？
+- 但问题是——他已经住了二三十年了
+- 你不仅让他住，你还当真了
 
 **IMAGE PROMPT:**
 ```
-Person standing in front of an invisible wall, hand pressed against it, can see beautiful things on other side, cinematic, 16:9
+Asian person sitting alone, shadowy figure whispering in their ear, the shadow looks like a distorted version of themselves, unsettling but not scary, cinematic, 16:9
 ```
 
 ---
 
-### Section 2: The First Wall
+### Section 2: 内在室友
 **CONTENT:**
-- 这些墙是从哪来的？
-- 可能是小时候的一个瞬间
-- 你画了一张画，兴冲冲给爸爸看
-- 爸爸说：有这时间不如去做数学题
-- 你学到了：我喜欢的东西不重要
+- Michael Singer叫它"内在室友"
+- 一个永远不停嘴的室友
+- 他评论一切。他批评一切。他担心一切
+- "你刚才那句话说错了。" "他们肯定在背后说你。" "明天那件事肯定会出问题。"
+- 如果一个真人24小时这样对你说话
+- 你会搬家
+- 但他住在你脑子里，你没地方搬
 
 **IMAGE PROMPT:**
 ```
-Child holding drawing, adult figure turning away, soft painful memory aesthetic, warm but sad lighting, 16:9
+Person trying to work at desk, annoying shadowy figure constantly talking over their shoulder, exhausting internal monologue visualized, cinematic, 16:9
 ```
 
 ---
 
-### Section 3: More Walls
+### Section 3: 念头自己来的
 **CONTENT:**
-- 第一份工作，开会时你提了个想法
-- 老板说：这个我们试过了，不行
-- 你之后再也没主动发过言
-- 你学到了：我的想法是错的
-- 一面又一面墙，慢慢建起来
+- 但这里有一个很诡异的问题
+- 如果念头是"你"想的
+- 你能选择下一秒想什么吗？
+- 试试
+- 你做不到。念头自己来的
+- 它像天气一样
+- 你没办法决定今天下雨还是晴天
+- 但你可以选择打不打伞
 
 **IMAGE PROMPT:**
 ```
-Abstract layered walls surrounding a person, each wall slightly translucent, labeled with beliefs, claustrophobic beauty, 16:9
+Thoughts visualized as weather - clouds, rain, sunshine - passing through person's head, they stand unmoved in the center, weather not affecting core, cinematic, 16:9
 ```
 
 ---
 
-### Section 4: The Truth
+### Section 4: 谁在听？
 **CONTENT:**
-- 这些墙不是来伤害你的
-- 它们是来保护你的
-- 那个小时候的你，受伤了
-- 你用这些墙把他关在里面，以为这样就不会再受伤
-- 但你也把自己关在了外面
+- 既然念头不是"你"想的
+- 那"你"是什么？
+- Nisargadatta问过一个问题：当念头停下来的时候——你还在吗？
+- 你还在
+- 所以你不是念头
+- 你是那个在听念头的
+- 念头来了又走
+- 但那个"听"的——从来没变过
 
 **IMAGE PROMPT:**
 ```
-Child version of person curled up protected inside walls, while adult version stands outside unable to reach in, emotional, 16:9
+Person sitting in meditation, thoughts visualized as floating text around them, but the person's core is still and untouched, the observer, cinematic, 16:9
 ```
 
 ---
 
-### Section 5: The Key
+### Section 5: 念头之间的空隙
 **CONTENT:**
-- 这些墙是你建的
-- 钥匙也在你手上
-- 你不需要把墙推倒
-- 你只需要走进去，告诉那个小孩：
-- 我来了。你可以出来了
+- 念头和念头之间，有一个空隙
+- 非常短。很容易错过
+- 但当你开始注意那个空隙
+- 你会发现：那个空隙里，什么都没有
+- 但你还在
+- 那个空隙就是你的本质
+- 念头是客人。你是房子
+- 客人来了走了，房子一直在
 
 **IMAGE PROMPT:**
 ```
-Hand holding a glowing key, walls beginning to become transparent/dissolve, liberation, hope, 16:9
+Abstract visualization of gap between thoughts, peaceful void, pure awareness, the space where true self resides, ethereal, cinematic, 16:9
 ```
 
 ---
 
-### Section 6: The Embrace
+### Section 6: 梦的比喻
 **CONTENT:**
-- 对那个小时候的自己说：
-- 对不起，我以为这样能保护你
-- 谢谢你一直在等我
-- 你已经长大了。我们不需要这些墙了
-- 外面的世界没那么可怕
-- 我会陪着你
+- 你做梦的时候，谁在梦里演你？
+- 那个"你"，是真的你吗？
+- 梦里的你会害怕、会跑、会爱、会恨
+- 但醒来以后你知道：那不是真的我。那只是一个角色
+- 如果梦里的"我"不是我
+- 凭什么醒着的时候，那个"我"就是我？
+- 也许我们现在就在做梦
+- 那个正在想事情的"你"，只是这场梦的角色
+- 而真正的你——是做梦的人
 
 **IMAGE PROMPT:**
 ```
-Adult embracing child version of self, walls dissolving into light, healing moment, warm golden lighting, 16:9
+Person waking up from dream, dream version of themselves fading away, realization that dream self was not real, awakening metaphor, cinematic, 16:9
 ```
 
 ---
 
-### Section 7: Closing Whisper
+### Section 7: 你是天空
 **CONTENT:**
-- 每个人都有自己的墙
-- 每个人都有自己藏起来的小孩
-- 你不需要一下子拆掉所有的墙
-- 只需要知道：锁和钥匙，都在你手上
-- 什么时候准备好了，什么时候就打开
+- 你不是念头。你是那个看着念头来来去去的
+- 就像天空
+- 云来了。乌云、白云、乱云
+- 但天空从来没变过
+- 云不可能伤害天空
+- 念头也不可能伤害你
+- 当你不再认同念头
+- 它们还会来。但它们不再是"你"的问题
+- 它们只是天气
 
 **IMAGE PROMPT:**
 ```
-Person walking toward light, leaving shadows behind, hopeful journey, dawn breaking, 16:9
+Vast sky with various clouds passing through, peaceful and unchanging blue behind everything, you are the sky not the clouds, expansive, cinematic, 16:9
+```
+
+---
+
+### Section 8: Closing Whisper
+**CONTENT:**
+- 今晚躺下的时候
+- 那个声音会来。它总会来
+- "你今天又没做好那件事。" "明天怎么办？"
+- 你不需要让它闭嘴。你做不到
+- 你只需要记得：那不是你
+- 你是那个在听的
+- 念头会来。让它来
+- 你只是看着。不相信，也不反抗
+- 就那样看着
+- 慢慢地，你会发现
+- 那个声音没那么重要了
+- 因为你知道了——那不是你
+
+**IMAGE PROMPT:**
+```
+Person lying in bed peacefully, thoughts visualized as gentle passing clouds above, not disturbing their peace, acceptance, cinematic, 16:9
 ```
 
 ---
 
 ### Closing
 **TEXT ON SCREEN:**
-> 你现在在哪一层？
-> 那面墙，保护的是谁？
+> 那个声音不是你
+> 你是那个在听的
+> 念头是天上的云
+> 你是天空本身
 
 **IMAGE PROMPT:**
 ```
@@ -687,138 +733,186 @@ Black background, elegant white Chinese text centered, minimalist typography, 16
 
 ---
 
-# EP05: 放手 (Letting Go)
+# EP05: 阴影 (The Shadow Self)
 - ⬜ Script generated
 
 ## Core Theme
-**Core Question:** 你在抓住什么？如果松手，会怎样？
+**Core Question:** 你最讨厌别人的那一面——有没有可能是你自己？
 
-**Essence:** A leaf on the river doesn't fight the rocks. It flows around them. We exhaust ourselves trying to control what can't be controlled. Sometimes the bravest thing is to let go.
+**Essence:** Carl Jung's Shadow — the parts of ourselves we reject and deny. We project them onto others. What we hate in others is often what we refuse to see in ourselves. True wholeness comes from integrating the shadow, not fighting it.
+
+**Connection to Series:** 延续EP04的"你不是那个声音"——那些让你最讨厌的声音（特质），其实是被你压抑的自己。
 
 ### ⚡ Opening Hook (开场炸弹)
-> **"你追的不是云——你追的是水里的倒影。你越追，水面越乱，影子越散。"**
-
-或者：
-> "有些人用一辈子追一个东西，临死前才发现：他追的那个东西，从来就不存在。"
+> **"你有没有那种人，一见面就想打他？那种说不清的厌恶，那种一看到他脸就来气的感觉？Jung会说：恭喜你，你遇到了最好的老师。因为他正在演——你藏起来不敢演的剧本。"**
 
 ### 🔄 Key Twist Points
-1. **Twist 1 (Chasing Reflections):** "你伸手摸水面，倒影碎了。但你抬头——天上的云，还在。你追的不是云，你追的是倒影。真正的东西不需要追。"
-2. **Twist 2 (What You Really Chase):** "你以为你在追那个人、那个目标、那个成就。其实你追的是'我足够好'这个感觉。你追的是证明自己。那个感觉——在外面是找不到的。"
-3. **Twist 3 (The Paradox):** "当你真的放手了，有时候事情反而来了。因为你不再散发'我需要这个'的信号。你变得完整了。完整的人，自然会吸引完整的缘分。"
+1. **Twist 1 (The Martyr / Good Person):** "你讨厌那个自私的人，不是因为他坏。而是因为——他不需要受苦，就觉得自己值得。而你觉得只有受苦才配被爱。"
+2. **Twist 2 (The Realist / Pretender):** "你讨厌那个装逼的人，是因为他在玩你不敢玩的游戏。你的'真实'和'淡泊'，其实是恐惧的遮羞布。"
+3. **Twist 3 (The Prisoner / Irresponsible):** "你讨厌那个不靠谱的人，是因为他提醒你：笼子的门没锁。你随时可以走，是你自己不敢。"
+4. **Twist 4 (Golden Shadow):** "你压抑了你的需求(自私)、你的野心(装)、你的自由(不靠谱)。那是你的金色阴影。"
+5. **Twist 5 (Integration):** "把你讨厌的人当镜子。他在演你剧本里的哪个角色？把他身上的光拿回来。"
 
 ### 💔 Personal Wound Example
-> "我认识一个人，他追了一个女生七年。最后他放弃了——不是不爱了，是累了。奇怪的事情发生了：他不追了以后，反而遇到了另一个人。他说：'之前我浑身都在喊我很需要你。现在我不喊了，反而有人愿意靠近。'"
+> "有个人跟我说，他恨透了他同事的自私。后来他发现，他恨的其实是同事的'自由'。同事敢于直接表达需求，而他永远在等待别人猜。他恨那个不戴镣铐跳舞的人，因为他自己给自己戴上了沉重的脚镣。"
 
 ---
 
 ### Section 1: Opening Hook
 **CONTENT:**
-- 你有没有拼命抓住什么，却把它推得更远？
-- 一段关系，一个期望，一个"应该"
-- 越用力抓，越抓不住
-- 手都抓疼了，还是空的
+- 你有没有那种人，一见面就想打他？
+- 那种说不清的厌恶，那种一看到他脸就来气的感觉
+- 你可能觉得：这人有问题
+- 但Jung会说：不，你有问题
+- 因为他正在演——你藏起来不敢演的剧本
 
 **IMAGE PROMPT:**
 ```
-Hands gripping tightly, fingers turning white, something slipping through like water or sand, futility of control, 16:9
+Two Asian people facing each other, one looking with intense dislike at the other, but their shadows on the wall merge into one figure, mirror concept, cinematic, 16:9
 ```
 
 ---
 
-### Section 2: The River
+### Section 2: 投射机制
 **CONTENT:**
-- 河边有一片叶子
-- 它碰到石头，就绕开
-- 碰到漩涡，就转一圈
-- 碰到浅滩，就等水涨了再走
-- 它从不"努力"。它只是跟着流
+- 心理学有个词叫"投射"
+- 我们会无意识地把自己不接受的部分，投射到别人身上
+- 然后讨厌那个人
+- 你讨厌别人控制欲强——你有没有控制欲？
+- 你讨厌别人自私——你有没有自私的时候？
+- 你讨厌别人爱出风头——你有没有想被看见？
+- 那些让你最反感的特质，往往就藏在你自己身上
+- 只是你不承认
 
 **IMAGE PROMPT:**
 ```
-Autumn leaf floating on peaceful river, navigating around rocks naturally, beautiful morning light, meditative, 16:9
+Person pointing accusingly at another, but the pointing finger casts a shadow that points back at themselves, psychological projection visualized, cinematic, 16:9
 ```
 
 ---
 
-### Section 3: The Chase
+### Section 3: 地下室的敲门声
 **CONTENT:**
-- 我们追东西，就像追水里的倒影
-- 越追，水面越乱，影子越散
-- 我们以为是在追那个人、那个目标
-- 其实我们在追的是"我足够好"这个感觉
-- 追的是证明自己
+- Jung把这些被压抑的部分叫做"阴影"
+- 阴影不是敌人。它是你自己
+- 只是你小时候学到了：这些部分不被接受
+- 愤怒不被接受，所以你把愤怒关起来
+- 脆弱不被接受，所以你把脆弱关起来
+- 你把它们关进了地下室
+- 但它们没有消失。它们一直在敲门
+- 你越不开门，敲得越响
 
 **IMAGE PROMPT:**
 ```
-Person reaching toward reflection in water, ripples distorting the image, chasing something that keeps dissolving, 16:9
+Dark basement door with light seeping through cracks, shadowy hands pressing against door from inside, haunting but not threatening, cinematic, 16:9
 ```
 
 ---
 
-### Section 4: The Stillness
+### Section 4: 金色阴影 (The Golden Shadow)
 **CONTENT:**
-- 你伸手摸水面，倒影碎了
-- 但你抬头——天上的云，还在
-- 你追的不是云，你追的是倒影
-- 有时候，不需要追
-- 只需要让水面静下来
+- 但这里有一个大多数人不知道的事
+- 阴影不只是"黑暗"的
+- Jung还发现了另一种阴影——金色的
+- 你压抑的不只是愤怒、嫉妒、自私
+- 你也压抑了你的光
+- 有些人不敢承认自己聪明
+- 有些人不敢承认自己有才华
+- 有些人不敢承认自己值得被爱
+- 那也是阴影
+- 也许你最害怕的不是失败
+- 是成功。是真的站出来。是让别人看见真正的你
 
 **IMAGE PROMPT:**
 ```
-Still water perfectly reflecting sky and clouds, hand hovering above but not touching, peace through non-action, 16:9
+Same basement door, but now golden light is seeping through the cracks, person standing before it, hesitant but drawn, the golden shadow, cinematic, 16:9
 ```
 
 ---
 
-### Section 5: Letting Go is Not Giving Up
+### Section 5: 关系的镜子
 **CONTENT:**
-- 放手不是放弃
-- 放手是承认：有些事不是我能控制的
-- 我能做的就这些
-- 剩下的，交给时间，交给命运，交给那个更大的安排
-- 然后——呼吸
+- 还有一件诡异的事
+- 你被谁吸引，也是阴影在作用
+- 你的伴侣，往往携带着你的阴影
+- 你压抑了自由，你被那个自由的人吸引
+- 你压抑了激情，你被那个激情的人吸引
+- 这就是为什么亲密关系这么难
+- 你每天在跟自己压抑的部分共处
+- 你以为你在跟另一个人吵架
+- 其实你在跟自己吵架
 
 **IMAGE PROMPT:**
 ```
-Person releasing a bird or butterfly into sky, peaceful expression, letting go as liberation, golden hour lighting, 16:9
+Couple arguing, but their shadows on the wall are embracing, the paradox of relationship as shadow work, emotional, cinematic, 16:9
 ```
 
 ---
 
-### Section 6: The Return
+### Section 6: 梦中的追逐者
 **CONTENT:**
-- 奇怪的是
-- 当你真的放手了，有时候事情反而来了
-- 因为你不再散发"我需要这个"的信号
-- 你变得完整了
-- 完整的人，自然会吸引完整的缘分
+- 你有没有做过噩梦，被什么东西追？
+- 跑不动，喊不出声
+- 那个追你的——往往就是阴影
+- 下次做噩梦的时候，试着不要跑
+- 转身。看着它。问它：
+- 你是谁？你要告诉我什么？
+- 很多人发现：当他们转身的那一刻
+- 追逐者停下来了
+- 有时候甚至消失了
+- 因为它要的不是伤害你
+- 它只是想被看见
 
 **IMAGE PROMPT:**
 ```
-Person sitting peacefully, good things (light, flowers, opportunities) naturally flowing toward them without grasping, abundance, 16:9
+Person in dream-like setting, turning around to face dark shadowy figure, moment of confrontation, the shadow stops when seen, surreal, cinematic, 16:9
 ```
 
 ---
 
-### Section 7: Closing Whisper
+### Section 7: 整合
 **CONTENT:**
-- 今晚问自己：我在抓住什么？
-- 如果松手，会怎样？
-- 也许什么都不会发生
-- 也许你只是——终于可以休息了
-- 手不疼了，心也不累了
+- 整合阴影不是变成坏人
+- 不是放纵。不是失控
+- 是承认：我也有那些东西
+- 我有愤怒。我有嫉妒。我有自私
+- 我不完美
+- 我可以不完美
+- 当你敢承认"我也有那些东西"
+- 你就不需要再投射了
+- 你就不会再被那些人激怒了
+- 因为你已经跟自己和解了
 
 **IMAGE PROMPT:**
 ```
-Open palms facing up, peaceful surrender, soft night lighting, rest at last, 16:9
+Person opening basement door, light flooding in, shadow figure inside not monstrous but a younger version of self, reconciliation, warm lighting, cinematic, 16:9
+```
+
+---
+
+### Section 8: Closing Whisper
+**CONTENT:**
+- 今晚问自己一个问题
+- 我最讨厌别人什么？
+- 然后问：那个东西，在我身上有没有？
+- 不需要答案。只是问
+- 那个让你最不舒服的人
+- 也许是你这辈子最好的老师
+- 因为他让你看见了——你还不愿意看见的自己
+
+**IMAGE PROMPT:**
+```
+Person looking in mirror, reflection shows both their polished self and their shadow self standing together, wholeness, cinematic, 16:9
 ```
 
 ---
 
 ### Closing
 **TEXT ON SCREEN:**
-> 你在抓住什么？
-> 如果松手，会怎样？
+> 你最讨厌的那个人——
+> 有没有可能，那就是你？
+> 阴影不是敌人
+> 阴影是被你遗忘的自己
 
 **IMAGE PROMPT:**
 ```
@@ -1956,8 +2050,8 @@ After all 12 scripts are generated:
 | 1 | 存在 | 你今天"在"吗？还是只是身体在，人不在？ |
 | 2 | 时间 | 如果未来的你能寄一样东西给现在的你——是警告还是祝福？ |
 | 3 | 自由意志 | 你做的每一个选择，真的是"你"在选吗？ |
-| 4 | 内在牢笼 | 那面墙，保护的是谁？ |
-| 5 | 放手 | 你在抓住什么？如果松手，会怎样？ |
+| 4 | 念头 | 如果念头不是你——那谁在听？ |
+| 5 | 阴影 | 你最讨厌别人的那一面——有没有可能是你自己？ |
 | 6 | 双重存在 | 你是画里的人，还是画画的手？ |
 | 7 | 内在声音 | 脑子里那个声音是谁的？听到它的，又是谁？ |
 | 8 | 信念 | 你相信的东西，是你自己看见的，还是别人塞给你的？ |
