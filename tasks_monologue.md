@@ -734,185 +734,237 @@ Black background, elegant white Chinese text centered, minimalist typography, 16
 ---
 
 # EP05: 阴影 (The Shadow Self)
-- ⬜ Script generated
+- ✅ Script generated (v5)
 
 ## Core Theme
-**Core Question:** 你最讨厌别人的那一面——有没有可能是你自己？
+**Core Question:** 那些让你被触发的人——有没有可能，只是碰到了你心里的某个房客？
 
-**Essence:** Carl Jung's Shadow — the parts of ourselves we reject and deny. We project them onto others. What we hate in others is often what we refuse to see in ourselves. True wholeness comes from integrating the shadow, not fighting it.
+**Essence:** We all have inner "tenants" (房客) — parts of ourselves formed at different life stages. When someone triggers us, it's not really about them — they just touched an old bruise we didn't know we had. True healing comes from recognizing these tenants, understanding what they fear and need, and integrating them.
 
-**Connection to Series:** 延续EP04的"你不是那个声音"——那些让你最讨厌的声音（特质），其实是被你压抑的自己。
+**Connection to Series:** 延续EP04的"你不是那个声音"——那些让你被触发的，其实是心里的房客在反应，不是"现在的你"。
 
 ### ⚡ Opening Hook (开场炸弹)
-> **"你有没有那种人，一见面就想打他？那种说不清的厌恶，那种一看到他脸就来气的感觉？Jung会说：恭喜你，你遇到了最好的老师。因为他正在演——你藏起来不敢演的剧本。"**
+> **"你有没有试过，被一句话刺到？不是什么恶毒的话。就是一个问题，一个眼神，一句很随口的评论。然后你心里突然——紧了一下。"**
 
-### 🔄 Key Twist Points
-1. **Twist 1 (The Martyr / Good Person):** "你讨厌那个自私的人，不是因为他坏。而是因为——他不需要受苦，就觉得自己值得。而你觉得只有受苦才配被爱。"
-2. **Twist 2 (The Realist / Pretender):** "你讨厌那个装逼的人，是因为他在玩你不敢玩的游戏。你的'真实'和'淡泊'，其实是恐惧的遮羞布。"
-3. **Twist 3 (The Prisoner / Irresponsible):** "你讨厌那个不靠谱的人，是因为他提醒你：笼子的门没锁。你随时可以走，是你自己不敢。"
-4. **Twist 4 (Golden Shadow):** "你压抑了你的需求(自私)、你的野心(装)、你的自由(不靠谱)。那是你的金色阴影。"
-5. **Twist 5 (Integration):** "把你讨厌的人当镜子。他在演你剧本里的哪个角色？把他身上的光拿回来。"
+### 🔄 Key Metaphors
+1. **房客 (Tenants):** 你心里住着很多"房客"——小时候被骂的你、被忽略的你、被拒绝的你。平时安静，但被触发时会跳起来替你反应。
+2. **淤青 (Bruise):** 别人轻轻碰了你一下，你痛得叫出来，怪他碰太大力。但真正的问题是那块你自己都不知道的淤青。
+3. **轮子 (Wheel):** 活在轮子边缘，每一点碰撞都让你转个不停。活在轮子中心，外面怎么转，你都不会被带走。
+
+### 🏷️ Four Tenants (四个房客)
+| Nickname | Trigger | What He Fears | What He Needs |
+|----------|---------|---------------|---------------|
+| **玻璃心小弟** | 批评你的人 | 不够好、被否定 | 允许犯错、"我已经够好了" |
+| **被否定小弟** | 唱反调的人 | 没人支持、声音不重要 | 被听见、被尊重 |
+| **好人小弟** | "自私"的人 | 照顾自己=自私、不被爱 | 允许照顾自己 |
+| **躲角落小弟** | 爱表现的人 | 被笑、"你以为你是谁" | 勇气被看见 |
 
 ### 💔 Personal Wound Example
-> "有个人跟我说，他恨透了他同事的自私。后来他发现，他恨的其实是同事的'自由'。同事敢于直接表达需求，而他永远在等待别人猜。他恨那个不戴镣铐跳舞的人，因为他自己给自己戴上了沉重的脚镣。"
+> "有一种人会让我特别紧张。不是坏人，可能是某个长辈。但我在他们面前总是不自在。因为我知道，他们可能会问我一些问题，一些我不太想回答的问题。每次遇到这种情况，我身体会先反应。心跳加速。脑袋有点空。后来我想，他们真的在攻击我吗？还是我心里那个怕被批评的房客，已经跳起来了？"
 
 ---
 
-### Section 1: Opening Hook
+### Section 1: 开场
 **CONTENT:**
-- 你有没有那种人，一见面就想打他？
-- 那种说不清的厌恶，那种一看到他脸就来气的感觉
-- 你可能觉得：这人有问题
-- 但Jung会说：不，你有问题
-- 因为他正在演——你藏起来不敢演的剧本
+- 你有没有试过，被一句话刺到？
+- 不是什么恶毒的话，就是一个问题、一个眼神
+- 但你心里突然紧了一下
+- 事后回想，那件事其实没什么
+- 为什么有些人、有些话，特别容易让我们"被触发"？
 
 **IMAGE PROMPT:**
 ```
-Two Asian people facing each other, one looking with intense dislike at the other, but their shadows on the wall merge into one figure, mirror concept, cinematic, 16:9
-```
-
----
-
-### Section 2: 投射机制
-**CONTENT:**
-- 心理学有个词叫"投射"
-- 我们会无意识地把自己不接受的部分，投射到别人身上
-- 然后讨厌那个人
-- 你讨厌别人控制欲强——你有没有控制欲？
-- 你讨厌别人自私——你有没有自私的时候？
-- 你讨厌别人爱出风头——你有没有想被看见？
-- 那些让你最反感的特质，往往就藏在你自己身上
-- 只是你不承认
-
-**IMAGE PROMPT:**
-```
-Person pointing accusingly at another, but the pointing finger casts a shadow that points back at themselves, psychological projection visualized, cinematic, 16:9
+深夜，一个人坐在窗边，若有所思，窗外是城市夜景，柔和的灯光，16:9
 ```
 
 ---
 
-### Section 3: 地下室的敲门声
+### Section 2: 里面住着很多人
 **CONTENT:**
-- Jung把这些被压抑的部分叫做"阴影"
-- 阴影不是敌人。它是你自己
-- 只是你小时候学到了：这些部分不被接受
-- 愤怒不被接受，所以你把愤怒关起来
-- 脆弱不被接受，所以你把脆弱关起来
-- 你把它们关进了地下室
-- 但它们没有消失。它们一直在敲门
-- 你越不开门，敲得越响
+- 我们被触发的时候，反应的好像不是"现在的我"
+- 我们心里住着很多"房客"
+- 小时候被骂的你、被忽略的你、被拒绝的你
+- 平时安静，但被触发时会跳起来
+- 你以为是你在反应，其实是他们在反应
 
 **IMAGE PROMPT:**
 ```
-Dark basement door with light seeping through cracks, shadowy hands pressing against door from inside, haunting but not threatening, cinematic, 16:9
+一间温暖的房子内部，有几个模糊的人影站在不同角落，像房客一样，柔和光线，16:9
 ```
 
 ---
 
-### Section 4: 金色阴影 (The Golden Shadow)
+### Section 3: 淤青
 **CONTENT:**
-- 但这里有一个大多数人不知道的事
-- 阴影不只是"黑暗"的
-- Jung还发现了另一种阴影——金色的
-- 你压抑的不只是愤怒、嫉妒、自私
-- 你也压抑了你的光
-- 有些人不敢承认自己聪明
-- 有些人不敢承认自己有才华
-- 有些人不敢承认自己值得被爱
-- 那也是阴影
-- 也许你最害怕的不是失败
-- 是成功。是真的站出来。是让别人看见真正的你
+- 你手臂上有一块淤青，但你自己不知道
+- 有人轻轻碰了你一下，你痛得叫出来
+- 你怪他碰太大力，但他只是轻轻碰了一下
+- 真正的问题是那块淤青
+- 我们的情绪反应也是这样——别人只是碰到了我们心里的淤青
 
 **IMAGE PROMPT:**
 ```
-Same basement door, but now golden light is seeping through the cracks, person standing before it, hesitant but drawn, the golden shadow, cinematic, 16:9
+手臂上有一块淤青，有一只手轻轻碰到它，简单的画面，柔和色调，16:9
 ```
 
 ---
 
-### Section 5: 关系的镜子
+### Section 4: 那些让我紧张的人 (玻璃心小弟)
 **CONTENT:**
-- 还有一件诡异的事
-- 你被谁吸引，也是阴影在作用
-- 你的伴侣，往往携带着你的阴影
-- 你压抑了自由，你被那个自由的人吸引
-- 你压抑了激情，你被那个激情的人吸引
-- 这就是为什么亲密关系这么难
-- 你每天在跟自己压抑的部分共处
-- 你以为你在跟另一个人吵架
-- 其实你在跟自己吵架
+- 有一种人会让我特别紧张——可能会批评我、问我不想回答的问题
+- 每次遇到，身体先反应：心跳加速、脑袋空白
+- 那个房客是谁？"玻璃心小弟"——小时候被骂"不够好"的我
+- 他一直很怕再被否定，所以有人开口，他就紧张了
+- 他在保护我，但他的方式让我活得好累
 
 **IMAGE PROMPT:**
 ```
-Couple arguing, but their shadows on the wall are embracing, the paradox of relationship as shadow work, emotional, cinematic, 16:9
+一个人面对一个模糊的权威人物，身体微微紧绷，内心有个小小的孩子在害怕，16:9
 ```
 
 ---
 
-### Section 6: 梦中的追逐者
+### Section 5: 那些让我不舒服的人 (被否定小弟)
 **CONTENT:**
-- 你有没有做过噩梦，被什么东西追？
-- 跑不动，喊不出声
-- 那个追你的——往往就是阴影
-- 下次做噩梦的时候，试着不要跑
-- 转身。看着它。问它：
-- 你是谁？你要告诉我什么？
-- 很多人发现：当他们转身的那一刻
-- 追逐者停下来了
-- 有时候甚至消失了
-- 因为它要的不是伤害你
-- 它只是想被看见
+- 那种不管你说什么都要反驳的人
+- 我以前会很烦，觉得他是不是针对我
+- 我心里有个房客很需要被支持——"被否定小弟"
+- 小时候他的想法总是被否定，声音总是被盖过
+- 他不是在对那个人生气，是在对过去生气
 
 **IMAGE PROMPT:**
 ```
-Person in dream-like setting, turning around to face dark shadowy figure, moment of confrontation, the shadow stops when seen, surreal, cinematic, 16:9
+两个人在对话，一个人在说话，另一个人心里有个小小的自己在捂着耳朵，委屈的表情，16:9
 ```
 
 ---
 
-### Section 7: 整合
+### Section 6: 那些我觉得"自私"的人 (好人小弟)
 **CONTENT:**
-- 整合阴影不是变成坏人
-- 不是放纵。不是失控
-- 是承认：我也有那些东西
-- 我有愤怒。我有嫉妒。我有自私
-- 我不完美
-- 我可以不完美
-- 当你敢承认"我也有那些东西"
-- 你就不需要再投射了
-- 你就不会再被那些人激怒了
-- 因为你已经跟自己和解了
+- 那种总是把自己放第一位的人
+- 你找他帮忙，他说"我现在没空"，然后继续做自己的事
+- 我心里有没有一个声音也想这样做？有，但我不敢
+- "好人小弟"从小被教导：不可以自私，要为别人着想
+- 当我看到别人这样做，他就不舒服——他只是想出来透透气
 
 **IMAGE PROMPT:**
 ```
-Person opening basement door, light flooding in, shadow figure inside not monstrous but a younger version of self, reconciliation, warm lighting, cinematic, 16:9
+一个人站在铁笼外面，看着里面一个被锁着的自己，想要出来，16:9
 ```
 
 ---
 
-### Section 8: Closing Whisper
+### Section 7: 那些我觉得很"假"的人 (躲角落小弟)
 **CONTENT:**
-- 今晚问自己一个问题
-- 我最讨厌别人什么？
-- 然后问：那个东西，在我身上有没有？
-- 不需要答案。只是问
-- 那个让你最不舒服的人
-- 也许是你这辈子最好的老师
-- 因为他让你看见了——你还不愿意看见的自己
+- 那种喜欢表现、到处刷存在感的人
+- 我以前会觉得他们很假
+- 我心里有个房客很想被看见——"躲角落小弟"
+- 他被教导过：不要出风头，低调一点
+- 当我看到别人站在聚光灯下，他会说"那个人好假"——其实他在说"为什么他敢，我不敢？"
 
 **IMAGE PROMPT:**
 ```
-Person looking in mirror, reflection shows both their polished self and their shadow self standing together, wholeness, cinematic, 16:9
+一个人站在阴影里，看着另一个人在聚光灯下，眼神复杂，16:9
+```
+
+---
+
+### Section 8: 他们想要什么
+**CONTENT:**
+- 这些房客不是来捣乱的，他们是信使
+- "玻璃心小弟"在保护我不要再受伤
+- "被否定小弟"在提醒我需要被接受
+- "好人小弟"在告诉我，我也有需求
+- "躲角落小弟"在说，我也值得被注意
+- 每一次被触发，都是他们在说："这里有伤口，可以看看我吗？"
+
+**IMAGE PROMPT:**
+```
+几个小小的人影站在门口，手里拿着信，等待被看见，温暖但略带忧伤的画面，16:9
+```
+
+---
+
+### Section 9: 试着聊聊 (Model Answers)
+**CONTENT:**
+- 当被触发时，停下来，问那个房客："你是谁？你在怕什么？你需要什么？"
+- **玻璃心小弟**：怕被发现不够好、被否定。需要知道犯错也是可以的，已经够好了。
+- **好人小弟**：怕照顾自己会被觉得自私、不被爱。需要允许，照顾自己是可以的。
+- 这些房客要的很简单：你的理解、你的允许、你的陪伴
+
+**IMAGE PROMPT:**
+```
+一个人蹲下来，面对一个小小的自己，温柔地对话，柔和光线，16:9
+```
+
+---
+
+### Section 10: 回到中心
+**CONTENT:**
+- 想象一个轮子
+- 活在轮子边缘——每一点碰撞都让你转个不停
+- 活在轮子中心——外面怎么转，中心是不动的
+- 那些房客就是在轮子边缘的部分
+- 每认识一个，你就往中心靠近一点
+
+**IMAGE PROMPT:**
+```
+一个轮子的画面，边缘在转动很快，但中心是静止的，一个小人从边缘慢慢走向中心，16:9
+```
+
+---
+
+### Section 11: 在里面，不在外面
+**CONTENT:**
+- 触发点不在外面，在里面
+- 那个批评我的人，没有那么大的力量
+- 他们只是不小心碰到了我的淤青
+- 问题在我这边——不是怪自己，是把力量拿回来
+- 我不用等别人改变，我可以自己去照顾那块淤青
+
+**IMAGE PROMPT:**
+```
+一双手轻轻捧着一块发光的淤青，在照顾它，温暖的画面，16:9
+```
+
+---
+
+### Section 12: 里面的世界
+**CONTENT:**
+- 心情好的时候，全世界都变可爱了
+- 心情不好的时候，每个人都很烦
+- 外面没有变，变的是里面
+- 我们看到的世界，是里面的投射
+- "外面没有别人。只有你自己。"
+
+**IMAGE PROMPT:**
+```
+一个人站在镜子前，镜子里反射出整个世界，暗示外面的世界是内心的投射，16:9
+```
+
+---
+
+### Section 13: Closing Whisper
+**CONTENT:**
+- 如果你也有被触发的时候，也许可以试试
+- 停下来，往里面看
+- 问问那个正在反应的房客："我看见你了。你怕什么？你需要什么？"
+- 不用急着有答案，问就够了，看见就够了
+- 希望你的房客们，都被好好照顾
+
+**IMAGE PROMPT:**
+```
+一间温暖的房子，窗户亮着灯，里面的房客们都在安静地休息，和谐的画面，夜晚，16:9
 ```
 
 ---
 
 ### Closing
 **TEXT ON SCREEN:**
-> 你最讨厌的那个人——
-> 有没有可能，那就是你？
-> 阴影不是敌人
-> 阴影是被你遗忘的自己
+> 下次你被触发的时候
+> 停下来，问问：
+> 是谁在反应？
+> 他在保护我什么？
 
 **IMAGE PROMPT:**
 ```
@@ -1062,139 +1114,184 @@ Black background, elegant white Chinese text centered, minimalist typography, 16
 
 ---
 
-# EP07: 内在声音 (The Voice Inside)
-- ⬜ Script generated
+# EP07: 伤口 (The Wound)
+- ✅ Script generated
 
 ## Core Theme
-**Core Question:** 脑子里那个声音是谁的？听到它的，又是谁？
+**Core Question:** 你用一生在保护的那个伤口——伤害你的人还记得吗？被伤害的那个孩子还在吗？
 
-**Essence:** That critical inner voice — "you're not good enough" — where did it come from? A parent, a teacher, an old wound. But voices need a listener. That listener is the real you. And that one has never been hurt.
+**Essence:** We all carry a childhood wound — a moment when someone said something that became a conclusion we've been running ever since. We build armor around it. But the wound is just a memory, the child is gone, the one who hurt us doesn't remember. The one observing the pain has never been hurt.
+
+**Connection to Series:** 延续EP05的"房客"概念——那些房客的形成，往往来自一个童年的伤口。这一集深入探讨伤口本身，以及"谁在痛"的问题。
 
 ### ⚡ Opening Hook (开场炸弹)
-> **"你脑子里那个一直骂你的声音——语气像不像你爸？或者你妈？"**
-
-或者：
-> "你脑子里住着一个人。他一直在说话。'你做不到的'，'别丢脸了'，'你看别人多好'。那个声音——是你吗？"
+> **"你身上有一个伤口。你可能不知道它在哪里。但你的整个人生，都在围着它转。你的野心。你的恐惧。你谈恋爱的方式。你发脾气的原因。全部，都可以追溯到一个瞬间。一个你可能都不记得的瞬间。"**
 
 ### 🔄 Key Twist Points
-1. **Twist 1 (It's Not Yours):** "仔细听听，那个语气，像不像谁？也许像爸妈，也许像老师，也许像某个曾经伤害过你的人。他们说过的话，变成了你脑子里的录音。你以为那是自己的声音。其实不是。"
-2. **Twist 2 (Inherited Script):** "爸爸这样对你说，因为爷爷这样对他说。一代一代传下来的剧本。没有人问过：这个剧本，我要继续演吗？——直到你问。"
-3. **Twist 3 (The Listener):** "声音可以骂你。但那个听到声音的——从来没被骂到。那个不是声音，那个是你。声音来来去去。听的那个，一直都在。"
+1. **Twist 1 (The Program):** "六岁那年，有人说了一句话。那句话像一根刺，扎进去了。三十年后，刺早就不在了。但你还在痛。那个结论像一个程序，开始在后台运行。"
+2. **Twist 2 (The Armor):** "完美主义是一面墙。讨好是一扇门。逃避是一条护城河。你的整个人格，可能都是盔甲。你穿着它太久了，久到忘了里面是什么。"
+3. **Twist 3 (They Don't Remember):** "那个伤害你的人——他可能根本不记得了。你为这件事痛了二十年、三十年。他可能第二天就忘了。"
+4. **Twist 4 (The Child is Gone):** "那个被伤害的孩子——现在在哪里？三十年前的你，细胞全换过了，想法全变了。你在保护一个不存在的人的伤口。"
+5. **Twist 5 (Who Is in Pain?):** "伤口是被观察的对象。你是正在观察的那个。那个观察的你——他痛吗？观察者不痛。你不是伤口，你是那个能看见伤口的空间。"
 
 ### 💔 Personal Wound Example
-> "有个朋友跟我说，他脑子里有个声音，每次他做什么事都会说：'你不配。'后来他问自己：这个声音像谁？他发现——是他爸。他爸从来没夸过他。他把他爸的声音内化了三十年，每天用来骂自己。"
+> "有一个人跟我说，她花了三十年试图让她爸爸说一句'我为你骄傲'。她拿了学位、升了职、买了房。每一次她都偷偷看爸爸的反应。爸爸最多点点头。后来她爸爸去世了。她在整理遗物的时候，发现了一个本子。里面夹着她所有的成绩单、毕业照、升职通知。每一张旁边，爸爸都写了一句话：'我女儿真棒。'她哭了一整夜。不是因为感动，是因为愤怒。'你为什么从来不说出来？'然后她意识到：她爸爸不会表达。那是他的问题，不是她的。但她把它变成了自己的问题。"
 
 ---
 
 ### Section 1: Opening Hook
 **CONTENT:**
-- 你脑子里住着一个人吗？
-- 一个一直在说话的声音
-- "你做不到的" "别丢脸了" "你看别人多好"
-- 那个声音，是谁？
+- 你身上有一个伤口，你可能不知道它在哪里
+- 但你的整个人生，都在围着它转
+- 你的野心、恐惧、谈恋爱的方式、发脾气的原因
+- 全部都可以追溯到一个瞬间
+- 六岁那年，有人说了一句话，像一根刺扎进去了
+- 三十年后，刺早就不在了，但你还在痛
 
 **IMAGE PROMPT:**
 ```
-Person with shadowy figure whispering behind them, critical inner voice visualized, unsettling but not scary, 16:9
+Silhouette of person with a faint glowing point near their heart, the wound we carry, intimate and vulnerable, night atmosphere, cinematic, 16:9
 ```
 
 ---
 
-### Section 2: The Origin
+### Section 2: 那个瞬间
 **CONTENT:**
-- 仔细听听，那个语气，像不像谁？
-- 也许像爸妈，也许像老师，也许像某个曾经伤害你的人
-- 他们说过的话，变成了你脑子里的录音
-- 不断重复，重复，重复
-- 你以为那是自己的声音。其实不是
+- 每个人都有一个"那个瞬间"
+- 爸爸的一句话："你怎么这么笨？"
+- 妈妈的一个眼神，失望的，冷的
+- 被同学嘲笑，被老师忽视，被朋友背叛
+- 不一定是大事，有时候只是一个眼神
+- 大人说完就忘了，但小孩得出了一个结论
+- "我不够好。" "我不值得被爱。" "我必须证明自己。"
+- 那个结论像一个程序，开始在后台运行
 
 **IMAGE PROMPT:**
 ```
-Echo chamber showing a child hearing harsh words that become internal voice in adult, generational pattern, 16:9
+Abstract - a child receiving something small (a word, a look) that enters like a seed, then growing into complex patterns that shape the adult, the origin moment, cinematic, 16:9
 ```
 
 ---
 
-### Section 3: The Inheritance
+### Section 3: 盔甲
 **CONTENT:**
-- 也许那个人不是故意的
-- 爸爸这样对你说，因为爷爷这样对他说
-- 一代一代传下来的剧本
-- 没有人问过：这个剧本，我要继续演吗？
-- 直到你问
+- 我们在伤口周围建了一座城堡
+- 完美主义是一面墙："如果我完美了，就没人能伤害我"
+- 讨好是一扇门："如果我让所有人开心，他们就会爱我"
+- 逃避是一条护城河："如果我不靠近任何人，就不会再受伤"
+- 你的整个人格，可能都是盔甲
+- 你穿着它太久了，久到忘了里面是什么
+- 也许里面什么都没有了，也许伤口早就好了
+- 但盔甲还穿着，你还在战斗，和一个早就不存在的敌人
 
 **IMAGE PROMPT:**
 ```
-Chain of silhouettes, each passing something dark to the next generation, cycle of inherited criticism, 16:9
+Person wearing elaborate armor, but when you look inside the armor at the heart area, there's just empty space or faint light, the wound healed but the armor remains, cinematic, 16:9
 ```
 
 ---
 
-### Section 4: Living with the Roommate
+### Section 4: 伤害你的人
 **CONTENT:**
-- 那个声音不会消失
-- 它已经住了太久了，像一个老房客
-- 但你可以不再当真
-- "哦，是你啊。今天又来说我不行？好吧。"
-- 不反抗，不相信，只是让它继续说
+- 这里有一个很残忍的真相
+- 那个伤害你的人——他可能根本不记得了
+- 你为这件事痛了十年、二十年、三十年
+- 他可能第二天就忘了
+- 他可能从来不知道那句话对你意味着什么
+- 你一直在等一个道歉，但对方不知道自己需要道歉
+- [Personal wound example about the father's notebook]
 
 **IMAGE PROMPT:**
 ```
-Person calmly drinking tea while shadow/voice talks, not fighting, not believing, peaceful coexistence, 16:9
+Split image - one side shows person carrying heavy burden of memory, other side shows the one who caused the wound living normally, having forgotten, the asymmetry of pain, cinematic, 16:9
 ```
 
 ---
 
-### Section 5: The Listener
+### Section 5: 消失的孩子
 **CONTENT:**
-- 这里有一个秘密
-- 声音只能被"听到"
-- 那个听到声音的，是谁？
-- 那个不是声音，那个是你
-- 声音可以骂你，但那个听的，从来没被骂到
+- 那个被伤害的孩子——现在在哪里？
+- 三十年前的你，细胞全换过了，想法全变了
+- 那个六岁的小女孩、八岁的小男孩——他们还存在吗？
+- 你记得那个痛，但记得痛的这个人，和当时痛的那个人，是同一个人吗？
+- 你在保护一个不存在的人的伤口
+- 一个空房间，一个没有囚犯的牢笼
+- 门从来没有锁，是你自己一直站在里面，假装出不去
 
 **IMAGE PROMPT:**
 ```
-Abstract: sound waves hitting a barrier, but the core self beyond the barrier remains untouched, peaceful center, 16:9
+Adult looking for child version of themselves, but the child is transparent, fading, no longer really there, searching for the wounded one who has vanished, bittersweet, cinematic, 16:9
 ```
 
 ---
 
-### Section 6: The Deeper Silence
+### Section 6: 谁在痛？
 **CONTENT:**
-- 有一天，声音可能会停一下
-- 突然安静了
-- 你会发现：那个安静的空间，一直都在
-- 声音来了又走
-- 但那个空间，从来没变过
+- 如果那个孩子不在了，伤害你的人不记得了
+- 那现在还在痛的——是谁？
+- 想一想那个伤口，让它浮上来
+- 也许是胸口紧，胃里沉，喉咙堵
+- 那个是"伤口"
+- 现在注意另一件事：有一个"你"在观察那个伤口
+- 伤口是被观察的对象，你是正在观察的那个
+- 那个观察的你——他痛吗？
+- 观察者不痛，观察者只是在看
+- 你不是伤口，你是那个能看见伤口的空间
+- 那个空间——从来没被任何东西伤害过
 
 **IMAGE PROMPT:**
 ```
-Vast quiet space with occasional thought-clouds passing through, the unchanging awareness, peaceful, 16:9
+Peaceful awareness observing pain as an object, the witness and the witnessed, separation between the wound and the one who sees it, meditative, transcendent, cinematic, 16:9
 ```
 
 ---
 
-### Section 7: Closing Whisper
+### Section 7: 放下盔甲
 **CONTENT:**
-- 下次那个声音又来批评你
-- 试着问它：你是谁？
-- 然后问自己：听到这话的，又是谁？
-- 那个听的，才是你
-- 它从来没有被伤害过
+- 你不需要"治愈"伤口，因为伤口只是一个记忆
+- 记忆不需要治愈
+- 你需要做的，是停止相信你"是"那个伤口
+- 你不是那个六岁的孩子了，你不是那个结论了
+- 你是那个可以看见结论的人
+- 那个看的人，从来没被定义过，不是任何故事
+- 盔甲可以放下了，你已经安全了
+- 城堡可以拆了，里面没有需要保护的东西
+- 战争结束了，很久以前就结束了，只是没人告诉你
 
 **IMAGE PROMPT:**
 ```
-Person's peaceful face, inner light, beyond all voices, the untouchable core, 16:9
+Person gently removing armor piece by piece, underneath is not wound but light, the protection is no longer needed, liberation, warm lighting, cinematic, 16:9
+```
+
+---
+
+### Section 8: Closing Whisper
+**CONTENT:**
+- 今晚睡前，也许那个旧故事会来
+- "我不够好。" "我需要证明自己。" "如果我不完美，就不会被爱。"
+- 让它来，但试着问一句：这是谁的故事？
+- 一个六岁小孩的故事，她已经不在了
+- 但她的故事一直在播放
+- 你可以让它播放，你不需要相信它
+- 你不是故事，你是听故事的人
+- 那个听的人——从来没受过伤
+- 守护的人可以休息了，你已经安全很久了
+- 今晚，让我告诉你：你够了，一直都够
+
+**IMAGE PROMPT:**
+```
+Person at peace, child version of themselves finally at rest, the guardian can sleep now, soft night lighting, completion, cinematic, 16:9
 ```
 
 ---
 
 ### Closing
 **TEXT ON SCREEN:**
-> 脑子里那个声音——
-> 是谁的声音？
-> 听到它的，又是谁？
+> 你用一生在保护的那个伤口——
+> 伤害你的人还记得吗？
+> 被伤害的那个孩子还在吗？
+> 如果都不在了——
+> 你在守护什么？
 
 **IMAGE PROMPT:**
 ```
