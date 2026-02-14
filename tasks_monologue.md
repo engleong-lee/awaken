@@ -973,139 +973,246 @@ Black background, elegant white Chinese text centered, minimalist typography, 16
 
 ---
 
-# EP06: 双重存在 (Dual Lives)
-- ⬜ Script generated
+# EP06: 寂靜 (Silence)
+- ✅ Script generated
 
 ## Core Theme
-**Core Question:** 你是画里的人，还是画画的手？
+**Core Question:** 你有多久没有真正安静过了？不是没有声音——是没有念头。
 
-**Essence:** We feel torn between different versions of ourselves — worker, dreamer, child, adult. What if none of them is really "you"? What if you're the artist experiencing all these paintings?
+**Essence:** We live in constant noise — external and internal. We fill every gap with scrolling, music, thoughts. We're terrified of silence because it means facing ourselves. But silence isn't empty — it's full. It's where you actually *are*. The silence between words, between breaths — that's where peace lives. When you notice your hands, your breath, your body — worry dissolves. You are not a person lost in a noisy universe. You are the universe, awake.
+
+**Connection to Series:** EP04 的"你不是念头"和"念头之间的空隙"。EP05 的房客在制造噪音。EP06 问：当所有噪音停下来，剩下什么？你。天空本身。为EP07做铺垫——当你安静下来，才能听到伤口。
 
 ### ⚡ Opening Hook (开场炸弹)
-> **"工作时的你，和凌晨三点躺在床上失眠的你——他们见过面吗？他们认识吗？"**
+> **"你现在，停下来。什么都不要做。就这样。三秒钟。一、二、三。——你坚持到第几秒开始不舒服？"**
 
 或者：
-> "你有没有觉得，你不是一个人。你是好几个人，轮流住在同一具身体里。"
+> "真正有深度的东西，都是没有声音的。你上一次真正安静过——不是睡着，是醒着，但什么念头都没有——是什么时候？你可能想不起来。"
+
+或者：
+> "你有没有注意过，两个字之间有一个空隙？两个念头之间也有一个空隙？那个空隙——给了我前所未有的平静。"
 
 ### 🔄 Key Twist Points
-1. **Twist 1 (Multiple Paintings):** "工作中的你是一幅画，家里的你是另一幅画，梦里的你是第三幅画。你一直在问：哪个是真的？但也许这个问题本身就问错了。"
-2. **Twist 2 (You're the Hand):** "也许这些都是'画'。而真正的你——是那只画画的手。不属于任何一幅画，只是在体验每一幅。"
-3. **Twist 3 (Never Changes):** "那些角色来来去去，会变，会演，会消失。但那个在看的——那个现在正在听我说话的——从来没变过。"
+1. **Twist 1 (Silent Terror):** "我们害怕安静。电梯里要放音乐，吃饭要看手机，跑步要戴耳机。你不是怕安静——你是怕听到自己。"
+2. **Twist 2 (Silence Is Full):** "你以为安静是什么都没有。但安静是满的。念头消失的时候，你并没有消失。反而——你比任何时候都更'在'。"
+3. **Twist 3 (The Sky):** "天空从来没有被云伤害过。它永远是完整的。没有任何缺点。没有任何遗憾。你就是那个天空。"
+4. **Twist 4 (The Body Portal):** "当你留意到自己的双手——念头消失了。不是你赶走了它们。是你回到了一个念头不存在的地方。"
+5. **Twist 5 (You Are the Universe):** "你不是在宇宙里。你就是宇宙。你是宇宙意识到自己存在的那个点。"
 
 ### 💔 Personal Wound Example
-> "我认识一个人，她说她有'上班人格'和'回家人格'。上班的时候专业冷静，回到家就崩溃。她一直觉得这两个人不该同时存在。后来她试着问自己：谁在看这两个人？那一刻她发现——看的那个，不是上班的她，也不是崩溃的她。是另一个更安静的东西。一直在那里。"
+> "有个朋友跟我说，她有一次在山上，手机没信号。她说头一个小时她快疯了。不停地拿出手机看，虽然知道没信号还是要看。第二个小时她开始烦躁。第三个小时——她说她听到了风。从来没有这样听过风。她说那一刻，她眼泪掉下来了。不是因为难过。是因为她突然意识到，她活了三十多年，从来没有真正安静过。"
 
 ---
 
-### Section 1: Opening Hook
+### Section 1: Opening Hook — 安静实验
 **CONTENT:**
-- 你有没有觉得自己同时活在好几个世界里？
-- 上班时是一个人，回家是另一个人
-- 朋友面前是一个样，独处时是另一个样
-- 哪个才是真正的你？
+- 邀请听众此刻停下来，什么都不做
+- 三秒钟的安静。你坚持到第几秒开始不舒服？
+- 我们活在一个噪音的时代：外面的噪音，和里面的噪音
 
 **IMAGE PROMPT:**
 ```
-Same person shown as multiple overlapping transparent versions, each slightly different, question of identity, 16:9
-```
-
----
-
-### Section 2: The Different Yous
-**CONTENT:**
-- 工作中的你：专业、能干、戴着面具
-- 家里的你：疲惫、真实、放松
-- 梦里的你：自由、奇怪、没有逻辑
-- 每一个都很真实
-- 但哪个是"本体"？
-
-**IMAGE PROMPT:**
-```
-Person looking at multiple doors, each showing a different version of themselves, choices and identities, surreal, 16:9
+Overwhelming city scene with neon lights, notification bubbles, scrolling feeds, information overload, one person standing still in the center, cinematic, 16:9
 ```
 
 ---
 
-### Section 3: The Artist and the Painting
+### Section 2: 每天八小时的开悟
 **CONTENT:**
-- 也许这个问题本身就问错了
-- 也许这些都是"画"
-- 工作的你是一幅画，家里的你是另一幅画
-- 而真正的你——是那个正在画画的手
-- 不属于任何一幅画，只是在体验每一幅
+- 其实你每天都经历宁静。只是你不知道
+- 睡着的那八个小时——没有念头，没有担忧，没有"我"
+- 纯粹的宁静。什么噪音都没有
+- 然后闹钟响了。你睁开眼睛。念头一秒钟就回来了
+- "今天要做什么？" "昨天那件事怎么办？" "手机在哪里？"
+- 噪音铺天盖地地回来了
+- 但这证明了一件事：你不是念头。因为念头消失了八个小时，你还在
+- 所以问题不是：如何找到宁静？你每天晚上都有
+- 问题是：醒着的时候，你能不能也碰到那份宁静？
 
 **IMAGE PROMPT:**
 ```
-Hand holding paintbrush, painting a scene that contains a figure painting another scene, recursive, beautiful, 16:9
+Person sleeping peacefully in dark room, complete stillness, then alarm clock ringing with a burst of text and thoughts flooding in, split moment contrast, cinematic, 16:9
 ```
 
 ---
 
-### Section 4: The Fading Fear
+### Section 3: 我们在害怕什么
 **CONTENT:**
-- 有时候我们害怕"失去自己"
-- 害怕在一个角色里待太久，忘了另一个角色
-- 但画家不会因为画一幅画，就忘了自己是画家
-- 那些角色来来去去
-- 画画的那个，一直都在
+- 电梯放音乐，排队刷手机，睡觉开白噪音
+- 我们填满每一个空隙，不给安静任何机会
+- 我们害怕安静，因为安静里有真相
+- 安静意味着：没有东西可以逃避了
+- "你不是怕安静。你是怕听到自己。"
 
 **IMAGE PROMPT:**
 ```
-Multiple paintings stacked or layered, but a constant light/presence beyond all of them, the unchanging witness, 16:9
+Person alone in completely dark and silent room, facing the void, slight unease, intimate and vulnerable, cinematic, 16:9
 ```
 
 ---
 
-### Section 5: Not Choosing
+### Section 4: 两个字之间的空隙
 **CONTENT:**
-- 你不需要选择"哪个你是真的"
-- 你可以同时是很多东西
-- 认真工作，也认真做梦
-- 既是成年人，也是那个从没长大的小孩
-- 全部都是你。也全部都不是你
+- 两个字之间有一个空隙。两个念头之间也有
+- 那个空隙非常短，很容易错过
+- 但当你开始注意它——你会发现那个空隙里，什么念头都没有
+- 但你还在
+- 那个空隙里的"你"，比念头里的"你"更真实
+- "给我前所未有的平靜"——因为在那个空隙里，没有担心，没有后悔，没有比较
 
 **IMAGE PROMPT:**
 ```
-Person peacefully containing multitudes, different versions coexisting harmoniously, integration, 16:9
+Abstract calligraphy strokes with beautiful white space between them, the gap between words, zen-like, minimalist, peaceful emptiness, 16:9
 ```
 
 ---
 
-### Section 6: The Real You
+### Section 5: 天空和云
 **CONTENT:**
-- 真正的你，是那个问"哪个是真的"的人
-- 是那个可以跳出来看所有角色的人
-- 是那个现在在听这些话的人
-- 角色会变，会演，会消失
-- 但那个在看的，从来没变过
+- 抬头看看天空
+- 乌云来了，天空还在。暴风雨来了，天空还在
+- 天空从来没有被伤害过。它永远完整。没有缺点，没有遗憾
+- 你就是天空。念头是云。情绪是天气
+- 无论多大的风暴，天空——永远是蓝的
+- 在云之上，有一种更深层的完美——超越一切形式
+- 云是美的：白云像棉花糖，夕阳的云是粉红色的。无忧无虑的。完美的
+- 但天空本身——那才是永恒的
 
 **IMAGE PROMPT:**
 ```
-Single point of light or awareness observing many life scenes like paintings in a gallery, the eternal witness, 16:9
+Magnificent sky with various clouds - some dark storm clouds, some soft white, some pink sunset clouds - but vast eternal blue sky behind everything, expansive, breathtaking, 16:9
 ```
 
 ---
 
-### Section 7: Closing Whisper
+### Section 6: 回到身体
 **CONTENT:**
-- 今晚，当你躺下
-- 想一想：今天的我，演了多少个角色？
-- 然后问：那个演角色的，是谁？
-- 那个，才是你
-- 从来都是
+- 有一个很简单的方法
+- 当你留意到自己的双手——试试
+- 感觉你的手指。每一根。感觉它们的温度。感觉它们的重量
+- 感觉你的脚底接触地面。感觉你的呼吸——空气进来，空气出去
+- 把注意力放在身体上的那一刻——你有没有发现？念头消失了
+- 不是你赶走了它们。是你的注意力去了一个念头不存在的地方
+- 烦恼和忧虑——自然而然就消失了
+- 你不需要解决问题。你只需要回到身体
 
 **IMAGE PROMPT:**
 ```
-Person lying peacefully in bed, all the day's roles dissolving like mist, returning to self, night peace, 16:9
+Close-up of hands in soft warm light, feeling each finger, sensation of touch, warmth, presence through body, peaceful and grounding, 16:9
+```
+
+---
+
+### Section 7: 树、狗、和没有小我的存在
+**CONTENT:**
+- 一棵树从来不着急。一朵花从来不比较。一条河从来不担心
+- 它们活在完美的安静里
+- 你看着一棵树的时候——如果你真的看——你会安静下来
+- 因为那棵树的安静，会传染给你。它不需要说话，你就感受到了
+- 狗也是。你看到一只狗的时候，你会笑
+- 狗为什么让我们开心？因为它们活在当下。纯粹地、完全地活在当下
+- 它们是"存在的守護者"——它们守着一样我们丢失了的东西
+- 狗没有"小我"。它不会想"我昨天在公园出丑了"。它不会担心"明天的骨头够不够"
+- 它看到你，就开心。看到球，就追。看到草地，就跑。就这样
+- 树、花、狗——它们都没有"小我"。没有那个不停讲故事的声音
+- 这就是没有"小我"的生命长什么样子——纯粹的喜悦，纯粹的此刻
+- 什么是"小我"？就是我们心里那个一直在讲故事的声音：我是谁、我够不够好、别人怎么看我
+- 这个声音——就是噪音的来源
+- 小孩也没有"小我"。两三岁的小孩看到蝴蝶会开心得尖叫。因为那个声音还没长出来
+- 后来我们长大了，学会了比较、评判、担心——"小我"越来越厚，安静越来越少
+- 所以当你看到一只狗快乐地奔跑，或者一棵树安静地站着——你不是在羡慕它们。你是在想起你曾经也是那样的
+- 回到安静，就是回到"小我"之前的你
+
+**IMAGE PROMPT:**
+```
+Serene scene: a large quiet tree, a happy dog running on grass, a small child chasing a butterfly, all in soft golden light, pure presence without ego, joyful and peaceful, 16:9
+```
+
+---
+
+### Section 8: 觉察本身就是改变
+**CONTENT:**
+- 到这里你可能会问：所以我要怎么做？要冥想吗？要练习吗？
+- 答案比你想的简单得多
+- 你不需要"努力放松"——这本身就是矛盾的
+- 你只需要觉察
+- 觉察到你在焦虑——焦虑就开始溶解
+- 觉察到你的身体——身体就开始放松
+- 觉察到念头在说话——念头就安静下来
+- 觉察，是最强大的改变力量
+- 你不需要做任何事。你只需要看见
+- 看见本身，就是改变。觉察本身，就是转化
+- 就像开灯——你不需要赶走黑暗。你只需要打开灯。黑暗自己就消失了
+
+**IMAGE PROMPT:**
+```
+Dark room with a single warm light being turned on, darkness dissolving naturally, simple and powerful metaphor, awareness as light, cinematic, 16:9
+```
+
+---
+
+### Section 9: 你就是宇宙
+**CONTENT:**
+- 你不是在宇宙里。你就是宇宙
+- 你不是一个渺小的人，迷失在一个巨大的世界里
+- 你是宇宙的一部分——一个醒来了的部分
+- 你是宇宙意识到自己存在的那个焦点
+- 这棵树、这朵花、这颗星星——和你是同一个东西
+- 当你安静下来的时候，你能感受到这种连接
+- 万物都在寂静中连在一起
+
+**IMAGE PROMPT:**
+```
+Person standing under vast starry sky, Milky Way visible, but the person is not small - they are merging with the cosmos, universe becoming conscious of itself, awe-inspiring, 16:9
+```
+
+---
+
+### Section 10: 完美的此刻
+**CONTENT:**
+- 当你真正安静下来，你会发现
+- 此刻什么都不缺
+- 没有需要修复的。没有需要改变的。没有需要逃避的
+- 天空不需要改善。你也不需要
+- 你的存在本身——已经是完美的了
+- 不是"你做得很好"的那种完美
+- 是"花开了"的那种完美——它不需要理由
+- 满意、不满意——那是念头。在念头之下，有一个地方，什么都刚刚好
+
+**IMAGE PROMPT:**
+```
+A flower blooming in soft morning light, perfect without trying, dew drops, natural perfection, no effort needed, serene, 16:9
+```
+
+---
+
+### Section 11: Closing Whisper
+**CONTENT:**
+- 今晚，试试
+- 关掉手机。关掉灯。关掉音乐
+- 就坐着。或者就躺着
+- 什么都不做
+- 感觉你的呼吸。感觉你的心跳
+- 如果念头来了——让它来。不追。不赶
+- 然后注意那个空隙。念头和念头之间的空隙
+- 在那个空隙里—— 安静地待一下
+- 你会发现：那里什么都没有
+- 但那里，什么都有
+- 因为你在
+
+**IMAGE PROMPT:**
+```
+Person sitting alone in darkness, only faint moonlight, breathing, minimal, the beauty of pure silence, one small light from within, 16:9
 ```
 
 ---
 
 ### Closing
 **TEXT ON SCREEN:**
-> 如果你的人生是一幅画——
-> 你是画里的人？
-> 还是画画的手？
+> 你有多久没有真正安静过了？
+> 今晚，关掉所有的声音
+> 然后听——
+> 你一直都在
 
 **IMAGE PROMPT:**
 ```
