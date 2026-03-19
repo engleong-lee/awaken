@@ -1221,184 +1221,231 @@ Black background, elegant white Chinese text centered, minimalist typography, 16
 
 ---
 
-# EP07: 伤口 (The Wound)
-- ✅ Script generated
+# EP07: 故事 (The Story)
+- ⬜ Script pending
 
 ## Core Theme
-**Core Question:** 你用一生在保护的那个伤口——伤害你的人还记得吗？被伤害的那个孩子还在吗？
+**Core Question:** 你脑子里那个叫做"我的人生"的故事——如果它只是一个故事呢？
 
-**Essence:** We all carry a childhood wound — a moment when someone said something that became a conclusion we've been running ever since. We build armor around it. But the wound is just a memory, the child is gone, the one who hurt us doesn't remember. The one observing the pain has never been hurt.
+**Essence:** The "life" we worry about — will it get better? will it get worse? — is entirely conceptual, a narrative constructed by the mind. We are spiritually asleep even while physically awake, trapped in a 24/7 movie about "me." But one conscious breath presses pause. And behind the story, there's a dimension of awareness that has always been here — already whole, already free. Enlightenment isn't something to achieve; it's the background you've been ignoring.
 
-**Connection to Series:** 延续EP05的"房客"概念——那些房客的形成，往往来自一个童年的伤口。这一集深入探讨伤口本身，以及"谁在痛"的问题。
+**Connection to Series:** EP04教你"你不是念头"（微观：一个念头）。EP06教你"在安静中找到自己"。EP07拉远镜头——你不是任何一个念头，你甚至不是你整个"人生故事"（宏观：整个叙事身份）。故事碎了，你还在。为EP08"信念"做铺垫——当故事不再定义你，你还相信什么？
 
 ### ⚡ Opening Hook (开场炸弹)
-> **"你身上有一个伤口。你可能不知道它在哪里。但你的整个人生，都在围着它转。你的野心。你的恐惧。你谈恋爱的方式。你发脾气的原因。全部，都可以追溯到一个瞬间。一个你可能都不记得的瞬间。"**
+> **"凌晨三点。你醒了。眼睛盯着天花板。脑子已经开始自动播放了——昨天说错的那句话、明天要交的报告、上个月那件尴尬的事、下个月的房贷。你以为你只是'想太多'。但其实，你在看电影。一部关于'我'的电影。导演是你的脑子，编剧也是，主角也是。你呢？你只是被绑在座位上的观众。"**
 
 ### 🔄 Key Twist Points
-1. **Twist 1 (The Program):** "六岁那年，有人说了一句话。那句话像一根刺，扎进去了。三十年后，刺早就不在了。但你还在痛。那个结论像一个程序，开始在后台运行。"
-2. **Twist 2 (The Armor):** "完美主义是一面墙。讨好是一扇门。逃避是一条护城河。你的整个人格，可能都是盔甲。你穿着它太久了，久到忘了里面是什么。"
-3. **Twist 3 (They Don't Remember):** "那个伤害你的人——他可能根本不记得了。你为这件事痛了二十年、三十年。他可能第二天就忘了。"
-4. **Twist 4 (The Child is Gone):** "那个被伤害的孩子——现在在哪里？三十年前的你，细胞全换过了，想法全变了。你在保护一个不存在的人的伤口。"
-5. **Twist 5 (Who Is in Pain?):** "伤口是被观察的对象。你是正在观察的那个。那个观察的你——他痛吗？观察者不痛。你不是伤口，你是那个能看见伤口的空间。"
+1. **Twist 1 (Conceptual Life):** "你说'我的人生很糟糕'。但你说的那个'人生'——此刻存在吗？此刻你只是坐着。或者躺着。此刻什么事都没有发生。那个'糟糕的人生'——全部在你脑子里。它是概念，不是现实。"
+2. **Twist 2 (Permanent Comfort Myth):** "我们花一辈子试图让人生'稳定'——好工作、好关系、好身体。然后有一天其中一个崩了。你慌了。不是因为事情本身——是因为'我的故事'被改写了。'我是一个成功的人'——这个剧本突然不成立了。"
+3. **Twist 3 (Loss Is a Blessing):** "但如果失去——其实是一种祝福呢？当头衔没了，地位没了，故事碎了——剩下的那个，才是你。故事崩盘了，但讲故事的人还在呼吸。"
+4. **Twist 4 (Two Sleeps):** "你每天从睡眠中醒来——这是第一种醒。但还有第二种：从故事中醒来。凌晨三点那个人，眼睛是睁开的。但他在做梦——一个关于'我'的白日梦。身体醒着，灵魂在沉睡。"
+5. **Twist 5 (Foreground vs Background):** "你的生活有两层。前景：发生的事、脑子里的故事。背景：一直都在的觉察——安静的、不动的。你一直忙着看前景的电影。但背景从来没变过。开悟不是未来要达到的东西——它是你一直忽略的背景。"
 
 ### 💔 Personal Wound Example
-> "有一个人跟我说，她花了三十年试图让她爸爸说一句'我为你骄傲'。她拿了学位、升了职、买了房。每一次她都偷偷看爸爸的反应。爸爸最多点点头。后来她爸爸去世了。她在整理遗物的时候，发现了一个本子。里面夹着她所有的成绩单、毕业照、升职通知。每一张旁边，爸爸都写了一句话：'我女儿真棒。'她哭了一整夜。不是因为感动，是因为愤怒。'你为什么从来不说出来？'然后她意识到：她爸爸不会表达。那是他的问题，不是她的。但她把它变成了自己的问题。"
+> "有个人跟我说，他被离开的那一天，坐在车里哭了两个小时。不是因为孤单——是因为他不知道自己是谁了。'她的男朋友'、'她最爱的人'——这些身份，他背了八年。没有了它们，他觉得自己是一具空壳。后来他去爬山。走了三个小时，累到脑子终于安静了。他说那一刻，他突然意识到：山还在，风还在，他的呼吸还在。他还在。那个'她的男朋友'的故事没了——但他还在。他说那是他人生中第一次觉得：也许我不需要那个故事。也许没有故事的我，反而更真实。"
 
 ---
 
-### Section 1: Opening Hook
+### Section 1: Opening Hook — 凌晨三点
 **CONTENT:**
-- 你身上有一个伤口，你可能不知道它在哪里
-- 但你的整个人生，都在围着它转
-- 你的野心、恐惧、谈恋爱的方式、发脾气的原因
-- 全部都可以追溯到一个瞬间
-- 六岁那年，有人说了一句话，像一根刺扎进去了
-- 三十年后，刺早就不在了，但你还在痛
+- 凌晨三点，你醒了
+- 你的身体还在床上，但你的脑子已经开始自动播放了
+- 昨天说错的那句话、明天要交的报告、上个月那件尴尬的事
+- 一件接一件，像电影一样自动播放
+- 你以为你只是"想太多"
+- 但其实，你在看一部电影。一部关于"我"的电影
+- 导演是你的脑子，编剧也是，主角也是
+- 你呢？你只是被绑在座位上的观众
+- 你没办法按暂停，没办法换台
+- 这部电影从你醒来就开始播，到你睡着才停
+- 也许你已经看了二十年、三十年了
+- 你甚至忘了——你不是电影里那个人。你是看电影的那个人
 
 **IMAGE PROMPT:**
 ```
-Silhouette of person with a faint glowing point near their heart, the wound we carry, intimate and vulnerable, night atmosphere, cinematic, 16:9
-```
-
----
-
-### Section 2: 那个瞬间
-**CONTENT:**
-- 每个人都有一个"那个瞬间"
-- 爸爸的一句话："你怎么这么笨？"
-- 妈妈的一个眼神，失望的，冷的
-- 被同学嘲笑，被老师忽视，被朋友背叛
-- 不一定是大事，有时候只是一个眼神
-- 大人说完就忘了，但小孩得出了一个结论
-- "我不够好。" "我不值得被爱。" "我必须证明自己。"
-- 那个结论像一个程序，开始在后台运行
-
-**IMAGE PROMPT:**
-```
-Abstract - a child receiving something small (a word, a look) that enters like a seed, then growing into complex patterns that shape the adult, the origin moment, cinematic, 16:9
+Person lying awake in bed at 3am, ceiling lit by faint blue light, swirling film-reel imagery projected above them — scenes of regret, worry, embarrassment playing like a movie, trapped audience, cinematic, 16:9
 ```
 
 ---
 
-### Section 3: 盔甲
+### Section 2: "我的人生"是个概念
 **CONTENT:**
-- 我们在伤口周围建了一座城堡
-- 完美主义是一面墙："如果我完美了，就没人能伤害我"
-- 讨好是一扇门："如果我让所有人开心，他们就会爱我"
-- 逃避是一条护城河："如果我不靠近任何人，就不会再受伤"
-- 你的整个人格，可能都是盔甲
-- 你穿着它太久了，久到忘了里面是什么
-- 也许里面什么都没有了，也许伤口早就好了
-- 但盔甲还穿着，你还在战斗，和一个早就不存在的敌人
+- 你有没有说过这样的话："我的人生很糟糕"？或者"我的人生还行"？
+- 但你说的那个"人生"——是什么？
+- 此刻，你坐着。或者躺着。此刻什么事都没有发生
+- 没有人在骂你，没有人在追你，天没有塌
+- 那个"糟糕的人生"在哪里？
+- 它在你脑子里
+- "我的人生" = 一堆过去的记忆 + 对未来的想象 + 关于自己的结论
+- 全部都是概念。全部都在你脑子里
+- 你说的那个"人生"，不是正在发生的事
+- 它是脑子编出来的一个连续剧
+- 你信以为真了
 
 **IMAGE PROMPT:**
 ```
-Person wearing elaborate armor, but when you look inside the armor at the heart area, there's just empty space or faint light, the wound healed but the armor remains, cinematic, 16:9
+Split scene: one half shows a person sitting peacefully in a quiet room (reality), other half shows chaotic swirling scenes of career stress, relationship drama, money worries (the mental movie), the contrast between concept and reality, cinematic, 16:9
 ```
 
 ---
 
-### Section 4: 伤害你的人
+### Section 3: 永恒的秩序是个幻觉
 **CONTENT:**
-- 这里有一个很残忍的真相
-- 那个伤害你的人——他可能根本不记得了
-- 你为这件事痛了十年、二十年、三十年
-- 他可能第二天就忘了
-- 他可能从来不知道那句话对你意味着什么
-- 你一直在等一个道歉，但对方不知道自己需要道歉
-- [Personal wound example about the father's notebook]
+- 我们花一辈子试图让这个故事"稳定"
+- 好工作 ✓ 好关系 ✓ 好身体 ✓ 别人的认可 ✓
+- 每一个勾，都是故事里的情节
+- "我是一个成功的人。""我有一个幸福的家庭。""我的人生在正轨上。"
+- 然后有一天——其中一个崩了
+- 失业了。分手了。生病了。丢脸了
+- 你的第一反应不是处理问题——是恐慌
+- 因为"我的故事"被改写了
+- "我是一个成功的人"——这个剧本突然不成立了
+- 你不是在害怕失去工作。你是在害怕失去"我是谁"
+- 人生从来不会永远按照你写好的剧本走
+- 期待它不变——这本身，就是痛苦的来源
 
 **IMAGE PROMPT:**
 ```
-Split image - one side shows person carrying heavy burden of memory, other side shows the one who caused the wound living normally, having forgotten, the asymmetry of pain, cinematic, 16:9
+A neatly arranged life — tidy desk, framed diplomas, relationship photo, health report — suddenly one piece cracks and the whole arrangement begins to crumble like dominoes, the myth of permanent order, cinematic, 16:9
 ```
 
 ---
 
-### Section 5: 消失的孩子
+### Section 4: 失去的祝福
 **CONTENT:**
-- 那个被伤害的孩子——现在在哪里？
-- 三十年前的你，细胞全换过了，想法全变了
-- 那个六岁的小女孩、八岁的小男孩——他们还存在吗？
-- 你记得那个痛，但记得痛的这个人，和当时痛的那个人，是同一个人吗？
-- 你在保护一个不存在的人的伤口
-- 一个空房间，一个没有囚犯的牢笼
-- 门从来没有锁，是你自己一直站在里面，假装出不去
+- 但这里有一个很反直觉的事
+- 如果失去——其实是一种祝福呢？
+- 当头衔没了，地位没了，别人的认可没了
+- 故事碎了一地
+- 你以为你完了
+- 但你还在呼吸。你还在看着这一切
+- 故事崩盘了——但讲故事的人还在
+- [Personal wound example: 被离开的故事]
+- 那些成就、那些标签——它们从来不是你。它们是故事里的情节
+- 情节可以改，可以删，可以崩塌。但你不会
+- 当故事全部被剥掉——你会发现一件事：
+- 你需要的一切，此刻已经在这里了
+- 不是在故事里。是在这一刻
+- 空气。身体里的那股活力。窗外的一棵树
+- 那棵树不需要头衔。它不需要别人的认可。它就在那里，活着
+- 真正的丰盛，不是往故事里加更多情节
+- 是认出此刻已经拥有的一切
 
 **IMAGE PROMPT:**
 ```
-Adult looking for child version of themselves, but the child is transparent, fading, no longer really there, searching for the wounded one who has vanished, bittersweet, cinematic, 16:9
+Person standing in rubble of collapsed achievement symbols — broken trophies, torn diplomas, shattered nameplate — but around them nature is alive: a tree growing through concrete, sunlight breaking through, they are breathing and present, beauty in loss, cinematic, 16:9
 ```
 
 ---
 
-### Section 6: 谁在痛？
+### Section 5: 两种睡眠
 **CONTENT:**
-- 如果那个孩子不在了，伤害你的人不记得了
-- 那现在还在痛的——是谁？
-- 想一想那个伤口，让它浮上来
-- 也许是胸口紧，胃里沉，喉咙堵
-- 那个是"伤口"
-- 现在注意另一件事：有一个"你"在观察那个伤口
-- 伤口是被观察的对象，你是正在观察的那个
-- 那个观察的你——他痛吗？
-- 观察者不痛，观察者只是在看
-- 你不是伤口，你是那个能看见伤口的空间
-- 那个空间——从来没被任何东西伤害过
+- 每天早上，你从睡眠中醒来。这是第一种醒
+- 闹钟响了，你睁开眼睛，开始新的一天
+- 但还有第二种醒——从故事中醒来
+- 大多数人一辈子只经历第一种
+- 他们眼睛睁开了，但一秒钟之内，故事就回来了
+- "今天要做什么？""昨天那件事怎么办？""手机在哪里？"
+- 叙述者立刻开工，电影继续播放
+- 凌晨三点那个人——他眼睛是睁开的
+- 但他在做梦。一个关于"我"的白日梦
+- 身体醒着，灵魂在沉睡
+- 第二种醒来，不是某一天会突然发生的大事件
+- 它是一个个微小的瞬间——你突然"看见"自己在想
+- 那个"看见"的瞬间——你就醒了一下
+- 也许只有一秒钟。但那一秒钟是真的
 
 **IMAGE PROMPT:**
 ```
-Peaceful awareness observing pain as an object, the witness and the witnessed, separation between the wound and the one who sees it, meditative, transcendent, cinematic, 16:9
+Two-panel image: left shows person physically waking up (alarm clock, morning light) but thought-bubbles immediately flooding in; right shows the same person with eyes softly open, no thoughts, pure awareness — the second awakening, subtle and profound, cinematic, 16:9
 ```
 
 ---
 
-### Section 7: 放下盔甲
+### Section 6: 按下暂停键
 **CONTENT:**
-- 你不需要"治愈"伤口，因为伤口只是一个记忆
-- 记忆不需要治愈
-- 你需要做的，是停止相信你"是"那个伤口
-- 你不是那个六岁的孩子了，你不是那个结论了
-- 你是那个可以看见结论的人
-- 那个看的人，从来没被定义过，不是任何故事
-- 盔甲可以放下了，你已经安全了
-- 城堡可以拆了，里面没有需要保护的东西
-- 战争结束了，很久以前就结束了，只是没人告诉你
+- 这里有一个很简单的事你可以试试
+- 吸一口气。有意识地吸一口气
+- 不是自动呼吸——是你知道自己在呼吸的那种
+- 试试看：你没办法同时跟着呼吸，又同时想事情
+- 一口有意识的呼吸——故事就暂停了
+- 就像遥控器上的暂停键
+- 那个暂停的瞬间——没有故事，没有"我的人生"
+- 只有空气进来，空气出去
+- 还有一个练习：看着一样东西，但不给它贴标签
+- 看那棵树——不要想"树"。只是看。看它的形状，它的颜色，它在风里的样子
+- 听一个声音——不要想它是什么。只是听
+- 这就是你不加旁白地体验现实
+- 叙述者闭嘴了。世界还在。而且更生动了
+- 下次你在等的时候——排队、等红灯、等电梯
+- 不要拿出手机——那是在按"继续播放"
+- 试着感受：周围的声音、颜色、空气的温度
+- 等待，变成了最好的练习场
 
 **IMAGE PROMPT:**
 ```
-Person gently removing armor piece by piece, underneath is not wound but light, the protection is no longer needed, liberation, warm lighting, cinematic, 16:9
+Person at a crosswalk, everyone else looking at phones, but this person is looking up — seeing the sky, feeling the wind, hearing the city sounds raw and unfiltered, pressing pause while the world keeps playing, cinematic, 16:9
+```
+
+---
+
+### Section 7: 前景和背景
+**CONTENT:**
+- 你的生活有两层
+- 前景：发生的事。听到的话。看到的东西。脑子里的故事
+- 前景一直在变。今天开心，明天难过。这个月顺利，下个月崩盘
+- 前景很吵。很忙。很戏剧化
+- 但还有一层——背景
+- 背景是一直都在的那个觉察
+- 安静的。不动的。无始无终的
+- 你一直活在前景里——忙着演戏、忙着看戏、忙着改剧本
+- 但背景从来没变过
+- 背景不抗拒任何事。它接受每一刻的"如是"
+- 前景里的你在抗拒——"不应该这样""为什么是我""这不公平"
+- 背景里的你不抗拒。它只是在
+- 抗拒现实 = 困在前景的故事里
+- 臣服 = 安歇在背景里
+- 开悟不是未来某一天要达到的东西
+- 它不需要你去"寻找"或"修炼"
+- 它是你一直忽略的背景
+- 它此刻就在这里。一直都在
+
+**IMAGE PROMPT:**
+```
+Layered artistic image: foreground is busy, chaotic, colorful — city life, notifications, emotional drama. Background is vast, still, luminous — like an infinite gentle light behind everything. The background has always been there, unnoticed, cinematic, 16:9
 ```
 
 ---
 
 ### Section 8: Closing Whisper
 **CONTENT:**
-- 今晚睡前，也许那个旧故事会来
-- "我不够好。" "我需要证明自己。" "如果我不完美，就不会被爱。"
-- 让它来，但试着问一句：这是谁的故事？
-- 一个六岁小孩的故事，她已经不在了
-- 但她的故事一直在播放
-- 你可以让它播放，你不需要相信它
-- 你不是故事，你是听故事的人
-- 那个听的人——从来没受过伤
-- 守护的人可以休息了，你已经安全很久了
-- 今晚，让我告诉你：你够了，一直都够
+- 今晚，那部电影可能又会开始播放
+- "我做错了什么" "明天会怎样" "我的人生到底怎么了"
+- 让它播。你不需要让它停
+- 但这一次，试着往后退一步
+- 你不是电影里的主角。你是看电影的那个人
+- 电影会播完的。故事会结束的
+- 但你——一直都在
+- 你的人生不是那个故事
+- 你的人生，是此刻
+- 此刻你在呼吸。此刻你在听
+- 窗外也许有风。也许有虫鸣。也许什么都没有
+- 但你在
+- 这就够了
 
 **IMAGE PROMPT:**
 ```
-Person at peace, child version of themselves finally at rest, the guardian can sleep now, soft night lighting, completion, cinematic, 16:9
+Person lying in bed peacefully, the movie projections above have faded to almost nothing, soft moonlight, one conscious breath, the story has paused, pure presence, cinematic, 16:9
 ```
 
 ---
 
 ### Closing
 **TEXT ON SCREEN:**
-> 你用一生在保护的那个伤口——
-> 伤害你的人还记得吗？
-> 被伤害的那个孩子还在吗？
-> 如果都不在了——
-> 你在守护什么？
+> 你脑子里那个叫做"我的人生"的故事——
+> 如果它只是一个故事呢？
+> 此刻，除了故事之外——
+> 你是谁？
 
 **IMAGE PROMPT:**
 ```
